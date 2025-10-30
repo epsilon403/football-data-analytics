@@ -1,0 +1,489 @@
+,date,start_time,comp,round,dayofweek,venue,result,goals_for,goals_against,opponent,xg_for,xg_against,possession,attendance,captain,formation,opp_formation,referee,team
+0,2024-08-25,16:30,Premier League,Matchweek 2,Sun,Home,W,2,0,Brentford,2.5,0.5,62.0,"60,017",Virgil van Dijk,4-2-3-1,4-4-2,Stuart Attwell,Liverpool
+1,2024-09-14,15:00,Premier League,Matchweek 4,Sat,Home,L,0,1,Nott'ham Forest,0.9,0.4,68.0,"60,344",Virgil van Dijk,4-2-3-1,4-2-3-1,Michael Oliver,Liverpool
+2,2024-09-21,15:00,Premier League,Matchweek 5,Sat,Home,W,3,0,Bournemouth,2.0,1.1,58.0,"60,347",Virgil van Dijk,4-2-3-1,4-2-3-1,Tony Harrington,Liverpool
+3,2024-09-25,20:00,EFL Cup,Third round,Wed,Home,W,5,1,West Ham,0.0,0.0,61.0,"60,044",Joe Gomez,4-2-3-1,4-2-3-1,Andy Madley,Liverpool
+4,2024-10-02,20:00,Champions Lg,League phase,Wed,Home,W,2,0,it Bologna,1.2,0.6,51.0,"59,816",Virgil van Dijk,4-2-3-1,4-1-4-1,Nikola Dabanović,Liverpool
+5,2024-10-20,16:30,Premier League,Matchweek 8,Sun,Home,W,2,1,Chelsea,1.9,1.0,43.0,"60,277",Virgil van Dijk,4-2-3-1,4-2-3-1,John Brooks,Liverpool
+6,2024-11-02,15:00 (16:00),Premier League,Matchweek 10,Sat,Home,W,2,1,Brighton,1.6,1.0,49.0,"60,331",Virgil van Dijk,4-2-3-1,4-4-2,Tony Harrington,Liverpool
+7,2024-11-05,20:00 (21:00),Champions Lg,League phase,Tue,Home,W,4,0,de Leverkusen,3.7,0.9,47.0,"59,790",Virgil van Dijk,4-3-3,3-5-2,Danny Makkelie,Liverpool
+8,2024-11-09,20:00 (21:00),Premier League,Matchweek 11,Sat,Home,W,2,0,Aston Villa,2.0,1.2,62.0,"60,292",Virgil van Dijk,4-2-3-1,4-2-3-1,David Coote,Liverpool
+9,2024-11-27,20:00 (21:00),Champions Lg,League phase,Wed,Home,W,2,0,es Real Madrid,2.7,1.2,63.0,"59,546",Virgil van Dijk,4-3-3,4-2-2-2,François Letexier,Liverpool
+10,2024-12-01,16:00 (17:00),Premier League,Matchweek 13,Sun,Home,W,2,0,Manchester City,3.4,0.8,44.0,"60,248",Virgil van Dijk,4-2-3-1,4-2-3-1,Chris Kavanagh,Liverpool
+11,2024-12-14,15:00 (16:00),Premier League,Matchweek 16,Sat,Home,D,2,2,Fulham,2.1,1.2,61.0,"60,333",Virgil van Dijk,4-3-3,4-2-3-1,Tony Harrington,Liverpool
+12,2024-12-26,20:00 (21:00),Premier League,Matchweek 18,Thu,Home,W,3,1,Leicester City,2.0,0.3,68.0,"60,300",Virgil van Dijk,4-2-3-1,4-2-3-1,Darren Bond,Liverpool
+13,2025-01-05,16:30 (17:30),Premier League,Matchweek 20,Sun,Home,D,2,2,Manchester Utd,2.7,1.0,53.0,"60,275",Virgil van Dijk,4-2-3-1,3-4-3,Michael Oliver,Liverpool
+14,2025-01-11,12:15 (13:15),FA Cup,Third round proper,Sat,Home,W,4,0,Acc'ton Stanley,0.0,0.0,0.0,"60,261",Trent Alexander-Arnold,4-3-3,4-3-1-2,Lewis Smith,Liverpool
+15,2025-01-21,20:00 (21:00),Champions Lg,League phase,Tue,Home,W,2,1,fr Lille,2.5,0.5,56.0,"59,782",Virgil van Dijk,4-3-3,4-2-3-1,Felix Zwayer,Liverpool
+16,2025-01-25,15:00 (16:00),Premier League,Matchweek 23,Sat,Home,W,4,1,Ipswich Town,2.0,0.5,70.0,"60,420",Virgil van Dijk,4-2-3-1,4-2-3-1,Michael Salisbury,Liverpool
+17,2025-02-06,20:00 (21:00),EFL Cup,Semi-finals,Thu,Home,W,4,0,Tottenham,0.0,0.0,64.0,"60,395",Virgil van Dijk,4-2-3-1,4-3-3,Craig Pawson,Liverpool
+18,2025-02-16,14:00 (15:00),Premier League,Matchweek 25,Sun,Home,W,2,1,Wolves,1.7,1.5,50.0,"60,248",Virgil van Dijk,4-2-3-1,3-4-3,Simon Hooper,Liverpool
+19,2025-02-26,20:15,Premier League,Matchweek 27,Wed,Home,W,2,0,Newcastle Utd,1.7,0.2,61.0,"60,374",Virgil van Dijk,4-2-3-1,4-2-3-1,Stuart Attwell,Liverpool
+20,2025-03-08,15:00,Premier League,Matchweek 28,Sat,Home,W,3,1,Southampton,3.9,0.4,71.0,"60,399",Virgil van Dijk,4-3-3,4-2-3-1,Lewis Smith,Liverpool
+21,2025-03-11,20:00,Champions Lg,Round of 16,Tue,Home,L,0 (1),1 (4),fr Paris S-G,1.5,2.6,46.0,"59,765",Virgil van Dijk,4-2-3-1,4-3-3,István Kovács,Liverpool
+22,2025-04-02,20:00 (19:00),Premier League,Matchweek 30,Wed,Home,W,1,0,Everton,1.5,0.9,73.0,"60,457",Virgil van Dijk,4-2-3-1,4-2-3-1,Samuel Barrott,Liverpool
+23,2025-04-13,14:00,Premier League,Matchweek 32,Sun,Home,W,2,1,West Ham,1.8,1.4,55.0,"60,376",Virgil van Dijk,4-2-3-1,3-5-2,Andy Madley,Liverpool
+24,2025-04-27,16:30,Premier League,Matchweek 34,Sun,Home,W,5,1,Tottenham,2.2,0.5,61.0,"60,415",Virgil van Dijk,4-2-3-1,4-3-3,Thomas Bramall,Liverpool
+25,2025-05-11,16:30,Premier League,Matchweek 36,Sun,Home,D,2,2,Arsenal,2.4,2.6,45.0,"60,324",Virgil van Dijk,4-2-3-1,4-3-3,Anthony Taylor,Liverpool
+26,2025-05-25,16:00,Premier League,Matchweek 38,Sun,Home,D,1,1,Crystal Palace,2.1,1.8,69.0,"60,382",Virgil van Dijk,4-2-3-1,3-4-3,Darren England,Liverpool
+27,2024-08-17,15:00,Premier League,Matchweek 1,Sat,Home,W,2,0,Wolves,1.2,0.5,53.0,"60,261",Martin Ødegaard,4-3-3,4-2-3-1,Jarred Gillett,Arsenal
+28,2024-08-31,12:30,Premier League,Matchweek 3,Sat,Home,D,1,1,Brighton,2.1,1.7,36.0,"60,326",Martin Ødegaard,4-3-3,4-2-3-1,Chris Kavanagh,Arsenal
+29,2024-09-25,19:45,EFL Cup,Third round,Wed,Home,W,5,1,Bolton,0.0,0.0,77.0,"59,056",Jorginho,4-3-3,3-5-2,Joshua Smith,Arsenal
+30,2024-09-28,15:00,Premier League,Matchweek 6,Sat,Home,W,4,2,Leicester City,4.4,0.3,74.0,"60,323",Bukayo Saka,4-4-2,4-2-3-1,Samuel Barrott,Arsenal
+31,2024-10-01,20:00,Champions Lg,League phase,Tue,Home,W,2,0,fr Paris S-G,0.7,0.4,35.0,"60,103",Bukayo Saka,4-4-2,4-3-3,Slavko Vinčič,Arsenal
+32,2024-10-05,15:00,Premier League,Matchweek 7,Sat,Home,W,3,1,Southampton,2.8,0.6,59.0,"60,307",Jorginho,4-4-2,5-4-1,Tony Harrington,Arsenal
+33,2024-10-22,20:00,Champions Lg,League phase,Tue,Home,W,1,0,ua Shakhtar,1.8,0.7,56.0,"59,594",Gabriel Jesus,4-4-2,4-2-3-1,Benoît Bastien,Arsenal
+34,2024-10-27,16:30 (17:30),Premier League,Matchweek 9,Sun,Home,D,2,2,Liverpool,0.9,0.8,45.0,"60,383",Bukayo Saka,4-4-2,4-2-3-1,Anthony Taylor,Arsenal
+35,2024-11-23,15:00 (16:00),Premier League,Matchweek 12,Sat,Home,W,3,0,Nott'ham Forest,1.2,0.3,66.0,"60,298",Martin Ødegaard,4-3-3,4-2-3-1,Simon Hooper,Arsenal
+36,2024-12-04,20:15 (21:15),Premier League,Matchweek 14,Wed,Home,W,2,0,Manchester Utd,2.1,0.2,51.0,"60,256",Martin Ødegaard,4-3-3,3-4-3,Samuel Barrott,Arsenal
+37,2024-12-11,20:00 (21:00),Champions Lg,League phase,Wed,Home,W,3,0,fr Monaco,2.3,0.5,54.0,"60,157",Martin Ødegaard,4-3-3,4-2-3-1,Davide Massa,Arsenal
+38,2024-12-14,15:00 (16:00),Premier League,Matchweek 16,Sat,Home,D,0,0,Everton,1.2,0.1,76.0,"60,176",Martin Ødegaard,4-3-3,4-3-3,Craig Pawson,Arsenal
+39,2024-12-18,19:30 (20:30),EFL Cup,Quarter-finals,Wed,Home,W,3,2,Crystal Palace,0.0,0.0,71.0,0,Jorginho,4-3-3,3-4-3,Andy Madley,Arsenal
+40,2024-12-27,20:15 (21:15),Premier League,Matchweek 18,Fri,Home,W,1,0,Ipswich Town,1.8,0.2,68.0,"60,271",Martin Ødegaard,4-3-3,5-4-1,Darren England,Arsenal
+41,2025-01-07,20:00 (21:00),EFL Cup,Semi-finals,Tue,Home,L,0,2,Newcastle Utd,0.0,0.0,70.0,"59,125",Martin Ødegaard,4-3-3,4-3-3,John Brooks,Arsenal
+42,2025-01-12,15:00 (16:00),FA Cup,Third round proper,Sun,Home,D,1 (3),1 (5),Manchester Utd,0.0,0.0,0.0,"60,109",Martin Ødegaard,4-3-3,3-4-3,Andy Madley,Arsenal
+43,2025-01-15,20:00 (21:00),Premier League,Matchweek 21,Wed,Home,W,2,1,Tottenham,1.4,0.8,53.0,"60,287",Martin Ødegaard,4-3-3,4-3-3,Simon Hooper,Arsenal
+44,2025-01-18,17:30 (18:30),Premier League,Matchweek 22,Sat,Home,D,2,2,Aston Villa,1.3,1.0,66.0,"60,067",Martin Ødegaard,4-3-3,4-2-3-1,Chris Kavanagh,Arsenal
+45,2025-01-22,20:00 (21:00),Champions Lg,League phase,Wed,Home,W,3,0,hr Dinamo Zagreb,2.4,0.1,63.0,"60,024",Martin Ødegaard,4-3-3,5-4-1,Daniel Siebert,Arsenal
+46,2025-02-02,16:30 (17:30),Premier League,Matchweek 24,Sun,Home,W,5,1,Manchester City,1.0,0.8,46.0,"60,355",Martin Ødegaard,4-3-3,4-2-3-1,Peter Bankes,Arsenal
+47,2025-02-22,15:00 (16:00),Premier League,Matchweek 26,Sat,Home,L,0,1,West Ham,1.2,1.1,68.0,"60,262",Martin Ødegaard,4-3-3,5-3-2,Craig Pawson,Arsenal
+48,2025-03-12,20:00,Champions Lg,Round of 16,Wed,Home,D,2,2,nl PSV Eindhoven,1.2,1.6,51.0,"59,410",Jorginho,4-3-3,4-3-3,Rade Obrenović,Arsenal
+49,2025-03-16,13:30,Premier League,Matchweek 29,Sun,Home,W,1,0,Chelsea,0.7,0.4,42.0,"60,311",Martin Ødegaard,4-3-3,4-2-3-1,Chris Kavanagh,Arsenal
+50,2025-04-01,19:45 (18:45),Premier League,Matchweek 30,Tue,Home,W,2,1,Fulham,2.2,1.0,51.0,"60,256",Martin Ødegaard,4-3-3,3-4-3,John Brooks,Arsenal
+51,2025-04-08,20:00,Champions Lg,Quarter-finals,Tue,Home,W,3,0,es Real Madrid,1.5,0.5,53.0,"60,110",Martin Ødegaard,4-3-3,4-4-2,Irfan Peljto,Arsenal
+52,2025-04-12,17:30,Premier League,Matchweek 32,Sat,Home,D,1,1,Brentford,1.0,0.2,63.0,"60,184",Jorginho,4-3-3,4-4-2,Simon Hooper,Arsenal
+53,2025-04-23,20:00,Premier League,Matchweek 34,Wed,Home,D,2,2,Crystal Palace,1.2,1.7,67.0,"60,167",Martin Ødegaard,4-3-3,3-4-3,Michael Salisbury,Arsenal
+54,2025-04-29,20:00,Champions Lg,Semi-finals,Tue,Home,L,0,1,fr Paris S-G,1.7,1.2,49.0,"59,664",Martin Ødegaard,4-3-3,4-3-3,Slavko Vinčič,Arsenal
+55,2025-05-03,17:30,Premier League,Matchweek 35,Sat,Home,L,1,2,Bournemouth,1.4,0.9,51.0,"60,110",Martin Ødegaard,4-3-3,4-2-3-1,Jarred Gillett,Arsenal
+56,2025-05-18,16:30,Premier League,Matchweek 37,Sun,Home,W,1,0,Newcastle Utd,0.6,1.5,51.0,"60,160",Martin Ødegaard,4-3-3,3-4-3,Simon Hooper,Arsenal
+57,2024-08-10,15:00,FA Community Shield,FA Community Shield,Sat,Home,D,1 (7),1 (6),Manchester Utd,0.0,0.0,56.0,"78,146",Rúben Dias,4-3-3,4-2-3-1,Jarred Gillett,Manchester City
+58,2024-08-24,15:00,Premier League,Matchweek 2,Sat,Home,W,4,1,Ipswich Town,3.3,0.3,75.0,"53,147",Kevin De Bruyne,3-2-4-1,5-4-1,Samuel Allison,Manchester City
+59,2024-09-14,15:00,Premier League,Matchweek 4,Sat,Home,W,2,1,Brentford,2.1,1.0,54.0,"52,148",Kyle Walker,4-2-3-1,5-3-2,Darren Bond,Manchester City
+60,2024-09-18,20:00,Champions Lg,League phase,Wed,Home,D,0,0,it Inter,2.3,0.7,60.0,"50,922",Kevin De Bruyne,3-2-4-1,3-5-2,Glenn Nyberg,Manchester City
+61,2024-09-22,16:30,Premier League,Matchweek 5,Sun,Home,D,2,2,Arsenal,2.1,0.7,77.0,"52,846",Kyle Walker,4-3-3,4-4-2,Michael Oliver,Manchester City
+62,2024-09-24,19:45,EFL Cup,Third round,Tue,Home,W,2,1,Watford,0.0,0.0,72.0,"40,584",Kyle Walker,3-2-4-1,5-3-2,David Webb,Manchester City
+63,2024-10-05,15:00,Premier League,Matchweek 7,Sat,Home,W,3,2,Fulham,1.6,2.6,58.0,"53,017",Rúben Dias,4-1-4-1,5-4-1,Peter Bankes,Manchester City
+64,2024-10-23,20:00,Champions Lg,League phase,Wed,Home,W,5,0,cz Sparta Prague,2.9,0.2,79.0,"50,116",Bernardo Silva,4-1-4-1,3-4-3,Maurizio Mariani,Manchester City
+65,2024-10-26,15:00,Premier League,Matchweek 9,Sat,Home,W,1,0,Southampton,2.9,0.2,57.0,"52,844",Rúben Dias,4-1-4-1,5-4-1,Tony Harrington,Manchester City
+66,2024-11-23,17:30 (18:30),Premier League,Matchweek 12,Sat,Home,L,0,4,Tottenham,2.1,2.5,58.0,"52,478",Kyle Walker,4-3-3,4-3-3,John Brooks,Manchester City
+67,2024-11-26,20:00 (21:00),Champions Lg,League phase,Tue,Home,D,3,3,nl Feyenoord,2.1,2.2,63.0,"47,011",Bernardo Silva,4-2-3-1,4-3-3,Radu Petrescu,Manchester City
+68,2024-12-04,19:30 (20:30),Premier League,Matchweek 14,Wed,Home,W,3,0,Nott'ham Forest,2.4,1.0,66.0,"51,764",Kevin De Bruyne,4-2-3-1,4-2-3-1,Michael Oliver,Manchester City
+69,2024-12-15,16:30 (17:30),Premier League,Matchweek 16,Sun,Home,L,1,2,Manchester Utd,0.9,2.1,52.0,"53,184",Kyle Walker,4-1-4-1,3-4-3,Anthony Taylor,Manchester City
+70,2024-12-26,12:30 (13:30),Premier League,Matchweek 18,Thu,Home,D,1,1,Everton,2.1,0.7,66.0,"55,527",Bernardo Silva,4-1-4-1,4-3-3,Simon Hooper,Manchester City
+71,2025-01-04,15:00 (16:00),Premier League,Matchweek 20,Sat,Home,W,4,1,West Ham,1.9,1.4,56.0,"52,737",Kevin De Bruyne,4-1-4-1,4-2-3-1,Michael Salisbury,Manchester City
+72,2025-01-11,17:45 (18:45),FA Cup,Third round proper,Sat,Home,W,8,0,Salford City,0.0,0.0,0.0,"52,056",İlkay Gündoğan,3-4-3,3-1-4-2,Joshua Smith,Manchester City
+73,2025-01-25,17:30 (18:30),Premier League,Matchweek 23,Sat,Home,W,3,1,Chelsea,2.2,1.8,56.0,"52,687",Bernardo Silva,4-3-3,4-2-3-1,John Brooks,Manchester City
+74,2025-01-29,20:00 (21:00),Champions Lg,League phase,Wed,Home,W,3,1,be Club Brugge,2.0,1.1,73.0,"51,237",Kevin De Bruyne,4-2-3-1,4-2-3-1,Jose Maria Sánchez,Manchester City
+75,2025-02-11,20:00 (21:00),Champions Lg,Knockout phase play-offs,Tue,Home,L,2,3,es Real Madrid,1.5,3.2,54.0,"52,081",Kevin De Bruyne,4-1-4-1,4-4-2,Clément Turpin,Manchester City
+76,2025-02-15,15:00 (16:00),Premier League,Matchweek 25,Sat,Home,W,4,0,Newcastle Utd,1.9,0.5,61.0,"52,479",Erling Haaland,4-2-3-1,4-3-3,Andy Madley,Manchester City
+77,2025-02-23,16:30,Premier League,Matchweek 26,Sun,Home,L,0,2,Liverpool,0.6,0.7,66.0,"52,803",Kevin De Bruyne,4-1-4-1,4-2-2-2,Anthony Taylor,Manchester City
+78,2025-03-01,17:45,FA Cup,Fifth round proper,Sat,Home,W,3,1,Plymouth Argyle,0.0,0.0,73.0,"50,044",Kevin De Bruyne,4-1-4-1,5-4-1,Craig Pawson,Manchester City
+79,2025-03-15,15:00,Premier League,Matchweek 29,Sat,Home,D,2,2,Brighton,1.7,2.0,60.0,"52,471",Rúben Dias,4-2-3-1,4-2-3-1,Simon Hooper,Manchester City
+80,2025-04-02,19:45 (18:45),Premier League,Matchweek 30,Wed,Home,W,2,0,Leicester City,2.2,0.1,72.0,"52,148",Rúben Dias,4-2-3-1,3-4-3,Darren England,Manchester City
+81,2025-04-12,12:30,Premier League,Matchweek 32,Sat,Home,W,5,2,Crystal Palace,3.7,1.8,67.0,"52,489",Kevin De Bruyne,4-2-3-1,3-4-3,Jarred Gillett,Manchester City
+82,2025-04-22,20:00,Premier League,Matchweek 34,Tue,Home,W,2,1,Aston Villa,1.3,1.8,61.0,"51,834",Kevin De Bruyne,4-1-4-1,4-2-3-1,Craig Pawson,Manchester City
+83,2025-05-02,20:00,Premier League,Matchweek 35,Fri,Home,W,1,0,Wolves,0.7,0.4,63.0,"53,282",Kevin De Bruyne,4-2-3-1,3-4-3,Peter Bankes,Manchester City
+84,2025-05-20,20:00,Premier League,Matchweek 37,Tue,Home,W,3,1,Bournemouth,1.5,1.1,57.0,"52,487",Kevin De Bruyne,4-2-3-1,4-2-3-1,Thomas Bramall,Manchester City
+85,2024-08-18,16:30,Premier League,Matchweek 1,Sun,Home,L,0,2,Manchester City,1.0,0.8,48.0,"39,818",Enzo Fernández,4-2-3-1,3-2-4-1,Anthony Taylor,Chelsea
+86,2024-08-22,20:00,Conf Lg,Play-off round,Thu,Home,W,2,0,ch Servette FC,0.0,0.0,0.0,"37,902",Moisés Caicedo,4-3-3,4-2-3-1,Jérémie Pignard,Chelsea
+87,2024-09-01,13:30,Premier League,Matchweek 3,Sun,Home,D,1,1,Crystal Palace,2.4,0.5,62.0,"39,298",Enzo Fernández,4-2-3-1,3-4-3,Jarred Gillett,Chelsea
+88,2024-09-24,19:45,EFL Cup,Third round,Tue,Home,W,5,0,Barrow,0.0,0.0,71.0,"38,868",Axel Disasi,4-2-3-1,5-3-2,Oliver Langford,Chelsea
+89,2024-09-28,15:00,Premier League,Matchweek 6,Sat,Home,W,4,2,Brighton,4.2,1.1,41.0,"39,495",Enzo Fernández,4-2-3-1,4-3-3,Peter Bankes,Chelsea
+90,2024-10-03,20:00,Conf Lg,League phase,Thu,Home,W,4,2,be Gent,1.7,1.1,70.0,"38,546",Axel Disasi,4-2-3-1,3-4-3,Daniel Schlager,Chelsea
+91,2024-10-06,14:00,Premier League,Matchweek 7,Sun,Home,D,1,1,Nott'ham Forest,2.3,0.9,65.0,"39,501",Enzo Fernández,4-2-3-1,4-2-3-1,Chris Kavanagh,Chelsea
+92,2024-10-27,14:00 (15:00),Premier League,Matchweek 9,Sun,Home,W,2,1,Newcastle Utd,1.6,1.8,50.0,"39,526",Reece James,4-2-3-1,4-3-3,Simon Hooper,Chelsea
+93,2024-11-07,20:00 (21:00),Conf Lg,League phase,Thu,Home,W,8,0,am FC Noah,5.7,0.8,58.0,"38,305",Enzo Fernández,4-1-4-1,4-2-3-1,Christian-Petru Ciochirca,Chelsea
+94,2024-11-10,16:30 (17:30),Premier League,Matchweek 11,Sun,Home,D,1,1,Arsenal,1.5,1.5,49.0,"39,780",Moisés Caicedo,4-2-3-1,4-3-3,Michael Oliver,Chelsea
+95,2024-12-01,13:30 (14:30),Premier League,Matchweek 13,Sun,Home,W,3,0,Aston Villa,1.6,1.2,64.0,"40,853",Enzo Fernández,4-2-3-1,4-2-3-1,Stuart Attwell,Chelsea
+96,2024-12-15,19:00 (20:00),Premier League,Matchweek 16,Sun,Home,W,2,1,Brentford,2.2,1.6,62.0,"39,571",Enzo Fernández,4-2-3-1,3-5-2,Peter Bankes,Chelsea
+97,2024-12-19,20:00 (21:00),Conf Lg,League phase,Thu,Home,W,5,1,ie Shamrock Rovers,2.5,0.5,73.0,"38,467",Axel Disasi,4-2-3-1,3-4-3,Willy Delajod,Chelsea
+98,2024-12-26,15:00 (16:00),Premier League,Matchweek 18,Thu,Home,L,1,2,Fulham,1.1,1.8,47.0,"39,687",Enzo Fernández,4-2-3-1,4-5-1,Samuel Barrott,Chelsea
+99,2025-01-11,15:00 (16:00),FA Cup,Third round proper,Sat,Home,W,5,0,Morecambe,0.0,0.0,0.0,"38,998",Reece James,4-1-4-1,4-5-1,Andrew Kitchen,Chelsea
+100,2025-01-14,19:30 (20:30),Premier League,Matchweek 21,Tue,Home,D,2,2,Bournemouth,2.5,1.2,57.0,"39,092",Enzo Fernández,4-2-3-1,4-2-3-1,Robert Jones,Chelsea
+101,2025-01-20,20:00 (21:00),Premier League,Matchweek 22,Mon,Home,W,3,1,Wolves,3.1,0.8,63.0,"39,221",Reece James,4-2-3-1,3-4-3,Simon Hooper,Chelsea
+102,2025-02-03,20:00 (21:00),Premier League,Matchweek 24,Mon,Home,W,2,1,West Ham,1.6,1.2,68.0,"39,459",Reece James,4-2-3-1,3-4-3,Stuart Attwell,Chelsea
+103,2025-02-25,20:15,Premier League,Matchweek 27,Tue,Home,W,4,0,Southampton,2.4,0.7,60.0,"39,485",Enzo Fernández,4-2-3-1,5-4-1,Thomas Bramall,Chelsea
+104,2025-03-09,14:00,Premier League,Matchweek 28,Sun,Home,W,1,0,Leicester City,1.7,0.1,56.0,"39,750",Enzo Fernández,4-2-3-1,3-4-3,Tim Robinson,Chelsea
+105,2025-03-13,20:00,Conf Lg,Round of 16,Thu,Home,W,1,0,dk FC Copenhagen,1.2,0.9,54.0,"35,280",Enzo Fernández,4-2-3-1,5-4-1,Radu Petrescu,Chelsea
+106,2025-04-03,20:00 (19:00),Premier League,Matchweek 30,Thu,Home,W,1,0,Tottenham,1.0,0.9,51.0,"39,852",Enzo Fernández,4-2-3-1,4-3-3,Craig Pawson,Chelsea
+107,2025-04-13,14:00,Premier League,Matchweek 32,Sun,Home,D,2,2,Ipswich Town,2.2,1.1,73.0,"39,805",Enzo Fernández,4-2-3-1,4-2-3-1,Stuart Attwell,Chelsea
+108,2025-04-17,20:00,Conf Lg,Quarter-finals,Thu,Home,L,1,2,pl Legia Warsaw,2.0,2.0,70.0,"32,549",Reece James,4-2-3-1,4-1-4-1,Alejandro Hernández,Chelsea
+109,2025-04-26,12:30,Premier League,Matchweek 34,Sat,Home,W,1,0,Everton,0.8,0.4,55.0,"39,894",Enzo Fernández,4-2-3-1,4-2-3-1,Chris Kavanagh,Chelsea
+110,2025-05-04,16:30,Premier League,Matchweek 35,Sun,Home,W,3,1,Liverpool,3.1,1.0,36.0,"39,829",Enzo Fernández,4-2-3-1,4-2-3-1,Simon Hooper,Chelsea
+111,2025-05-08,20:00,Conf Lg,Semi-finals,Thu,Home,W,1,0,se Djurgården,1.3,0.6,65.0,"32,464",Reece James,4-4-1-1,4-3-3,João Pinheiro,Chelsea
+112,2025-05-16,20:15,Premier League,Matchweek 37,Fri,Home,W,1,0,Manchester Utd,0.8,0.3,47.0,"39,849",Reece James,4-2-3-1,3-4-3,Chris Kavanagh,Chelsea
+113,2024-08-17,15:00,Premier League,Matchweek 1,Sat,Home,W,1,0,Southampton,0.3,1.8,23.0,"52,196",Bruno Guimarães,4-3-3,3-5-2,Craig Pawson,Newcastle Utd
+114,2024-09-01,13:30,Premier League,Matchweek 3,Sun,Home,W,2,1,Tottenham,1.8,1.2,35.0,"52,211",Bruno Guimarães,4-3-3,4-2-3-1,Robert Jones,Newcastle Utd
+115,2024-09-28,12:30,Premier League,Matchweek 6,Sat,Home,D,1,1,Manchester City,1.6,0.9,38.0,"52,248",Bruno Guimarães,4-3-3,4-2-3-1,Jarred Gillett,Newcastle Utd
+116,2024-10-01,19:45,EFL Cup,Third round,Tue,Home,W,1,0,AFC Wimbledon,0.0,0.0,78.0,"51,739",Fabian Schär,4-3-3,3-5-2,Darren Bond,Newcastle Utd
+117,2024-10-19,15:00,Premier League,Matchweek 8,Sat,Home,L,0,1,Brighton,2.0,1.1,60.0,"52,220",Bruno Guimarães,4-3-3,4-4-2,Peter Bankes,Newcastle Utd
+118,2024-10-30,19:45 (20:45),EFL Cup,Fourth round,Wed,Home,W,2,0,Chelsea,0.0,0.0,35.0,"51,934",Fabian Schär,4-3-3,4-2-3-1,Chris Kavanagh,Newcastle Utd
+119,2024-11-02,12:30 (13:30),Premier League,Matchweek 10,Sat,Home,W,1,0,Arsenal,0.5,1.1,37.0,"52,249",Bruno Guimarães,4-3-3,4-4-2,John Brooks,Newcastle Utd
+120,2024-11-25,20:00 (21:00),Premier League,Matchweek 12,Mon,Home,L,0,2,West Ham,1.6,0.9,53.0,"52,094",Bruno Guimarães,4-3-3,4-2-3-1,Craig Pawson,Newcastle Utd
+121,2024-12-04,19:30 (20:30),Premier League,Matchweek 14,Wed,Home,D,3,3,Liverpool,2.1,1.9,42.0,"52,237",Bruno Guimarães,4-3-3,4-2-3-1,Andy Madley,Newcastle Utd
+122,2024-12-14,15:00 (16:00),Premier League,Matchweek 16,Sat,Home,W,4,0,Leicester City,3.8,0.2,59.0,"52,235",Bruno Guimarães,4-3-3,4-2-3-1,Thomas Bramall,Newcastle Utd
+123,2024-12-18,19:45 (20:45),EFL Cup,Quarter-finals,Wed,Home,W,3,1,Brentford,0.0,0.0,54.0,"51,765",Bruno Guimarães,4-3-3,3-4-3,Samuel Barrott,Newcastle Utd
+124,2024-12-26,15:00 (16:00),Premier League,Matchweek 18,Thu,Home,W,3,0,Aston Villa,2.7,0.3,62.0,"52,168",Bruno Guimarães,4-3-3,4-2-3-1,Anthony Taylor,Newcastle Utd
+125,2025-01-12,15:00 (16:00),FA Cup,Third round proper,Sun,Home,W,3,1,Bromley,0.0,0.0,0.0,"52,088",Kieran Trippier,4-3-3,3-4-3,Will Finnie,Newcastle Utd
+126,2025-01-15,19:30 (20:30),Premier League,Matchweek 21,Wed,Home,W,3,0,Wolves,2.1,1.6,60.0,"51,975",Bruno Guimarães,4-3-3,3-4-3,Darren England,Newcastle Utd
+127,2025-01-18,12:30 (13:30),Premier League,Matchweek 22,Sat,Home,L,1,4,Bournemouth,0.8,2.0,56.0,"52,227",Bruno Guimarães,4-3-3,4-2-3-1,Stuart Attwell,Newcastle Utd
+128,2025-02-01,15:00 (16:00),Premier League,Matchweek 24,Sat,Home,L,1,2,Fulham,0.8,1.6,49.0,"52,173",Bruno Guimarães,4-3-3,4-2-3-1,Chris Kavanagh,Newcastle Utd
+129,2025-02-05,20:00 (21:00),EFL Cup,Semi-finals,Wed,Home,W,2,0,Arsenal,0.0,0.0,32.0,"52,173",Bruno Guimarães,5-4-1,4-3-3,Simon Hooper,Newcastle Utd
+130,2025-02-23,14:00,Premier League,Matchweek 26,Sun,Home,W,4,3,Nott'ham Forest,2.9,1.7,57.0,"52,223",Bruno Guimarães,4-3-3,4-2-3-1,Jarred Gillett,Newcastle Utd
+131,2025-03-02,13:45,FA Cup,Fifth round proper,Sun,Home,L,1,2,Brighton,0.0,0.0,48.0,"51,566",Kieran Trippier,4-3-3,4-2-3-1,Anthony Taylor,Newcastle Utd
+132,2025-04-02,19:45 (18:45),Premier League,Matchweek 30,Wed,Home,W,2,1,Brentford,1.3,1.5,49.0,"52,021",Bruno Guimarães,4-3-3,4-2-3-1,Peter Bankes,Newcastle Utd
+133,2025-04-13,16:30,Premier League,Matchweek 32,Sun,Home,W,4,1,Manchester Utd,2.2,0.7,48.0,"52,252",Bruno Guimarães,4-3-3,3-4-3,Chris Kavanagh,Newcastle Utd
+134,2025-04-16,19:30,Premier League,Matchweek 29,Wed,Home,W,5,0,Crystal Palace,1.5,2.0,59.0,"52,197",Bruno Guimarães,4-3-3,3-4-3,Darren England,Newcastle Utd
+135,2025-04-26,15:00,Premier League,Matchweek 34,Sat,Home,W,3,0,Ipswich Town,2.4,0.1,77.0,"52,171",Bruno Guimarães,4-3-3,4-4-1-1,Michael Salisbury,Newcastle Utd
+136,2025-05-11,12:00,Premier League,Matchweek 36,Sun,Home,W,2,0,Chelsea,1.6,0.7,45.0,"52,231",Bruno Guimarães,3-4-3,4-2-3-1,John Brooks,Newcastle Utd
+137,2025-05-25,16:00,Premier League,Matchweek 38,Sun,Home,L,0,1,Everton,1.2,1.2,65.0,"52,221",Bruno Guimarães,3-4-3,4-2-3-1,Tony Harrington,Newcastle Utd
+138,2024-08-24,17:30,Premier League,Matchweek 2,Sat,Home,L,0,2,Arsenal,1.2,0.9,40.0,"41,587",John McGinn,4-4-2,4-3-3,Michael Oliver,Aston Villa
+139,2024-09-14,17:30,Premier League,Matchweek 4,Sat,Home,W,3,2,Everton,2.1,0.9,72.0,"41,573",John McGinn,4-2-3-1,4-2-3-1,Craig Pawson,Aston Villa
+140,2024-09-21,15:00,Premier League,Matchweek 5,Sat,Home,W,3,1,Wolves,1.7,0.5,53.0,"39,978",John McGinn,4-2-3-1,4-1-4-1,Tim Robinson,Aston Villa
+141,2024-10-02,20:00,Champions Lg,League phase,Wed,Home,W,1,0,de Bayern Munich,0.4,1.5,30.0,"38,991",Emiliano Martínez,4-2-3-1,4-2-3-1,Radu Petrescu,Aston Villa
+142,2024-10-06,14:00,Premier League,Matchweek 7,Sun,Home,D,0,0,Manchester Utd,0.5,0.6,53.0,"42,682",Emiliano Martínez,4-2-3-1,4-2-3-1,Robert Jones,Aston Villa
+143,2024-10-22,20:00,Champions Lg,League phase,Tue,Home,W,2,0,it Bologna,1.2,0.9,53.0,"41,847",John McGinn,4-2-3-1,4-3-3,João Pinheiro,Aston Villa
+144,2024-10-26,15:00,Premier League,Matchweek 9,Sat,Home,D,1,1,Bournemouth,1.8,0.3,57.0,"42,165",John McGinn,4-4-1-1,4-2-3-1,Chris Kavanagh,Aston Villa
+145,2024-10-30,19:45 (20:45),EFL Cup,Fourth round,Wed,Home,L,1,2,Crystal Palace,0.0,0.0,62.0,0,John McGinn,4-2-3-1,3-4-3,Samuel Barrott,Aston Villa
+146,2024-11-23,15:00 (16:00),Premier League,Matchweek 12,Sat,Home,D,2,2,Crystal Palace,3.0,1.3,69.0,"42,175",John McGinn,4-2-3-1,3-4-3,Tim Robinson,Aston Villa
+147,2024-11-27,20:00 (21:00),Champions Lg,League phase,Wed,Home,D,0,0,it Juventus,1.2,0.4,46.0,"42,589",John McGinn,4-2-3-1,4-2-3-1,Jesús Gil,Aston Villa
+148,2024-12-04,20:15 (21:15),Premier League,Matchweek 14,Wed,Home,W,3,1,Brentford,2.4,0.9,49.0,"42,148",John McGinn,4-2-3-1,4-3-3,Lewis Smith,Aston Villa
+149,2024-12-07,15:00 (16:00),Premier League,Matchweek 15,Sat,Home,W,1,0,Southampton,2.3,0.3,47.0,"42,453",John McGinn,4-2-3-1,5-3-2,Darren Bond,Aston Villa
+150,2024-12-21,12:30 (13:30),Premier League,Matchweek 17,Sat,Home,W,2,1,Manchester City,1.6,1.0,44.0,"42,345",John McGinn,4-2-3-1,4-2-3-1,Peter Bankes,Aston Villa
+151,2024-12-30,19:45 (20:45),Premier League,Matchweek 19,Mon,Home,D,2,2,Brighton,1.8,1.1,59.0,"41,414",John McGinn,4-2-3-1,4-2-3-1,Craig Pawson,Aston Villa
+152,2025-01-04,15:00 (16:00),Premier League,Matchweek 20,Sat,Home,W,2,1,Leicester City,1.4,0.4,60.0,"42,386",John McGinn,4-2-3-1,4-2-3-1,Jarred Gillett,Aston Villa
+153,2025-01-10,20:00 (21:00),FA Cup,Third round proper,Fri,Home,W,2,1,West Ham,0.0,0.0,0.0,"40,989",Tyrone Mings,4-2-3-1,4-2-3-1,Tim Robinson,Aston Villa
+154,2025-01-26,16:30 (17:30),Premier League,Matchweek 23,Sun,Home,D,1,1,West Ham,0.9,1.3,46.0,"41,628",Emiliano Martínez,4-2-3-1,3-4-3,Peter Bankes,Aston Villa
+155,2025-01-29,20:00 (21:00),Champions Lg,League phase,Wed,Home,W,4,2,sct Celtic,3.9,0.8,58.0,"42,824",Emiliano Martínez,4-2-3-1,4-3-3,Clément Turpin,Aston Villa
+156,2025-02-09,17:35 (18:35),FA Cup,Fourth round proper,Sun,Home,W,2,1,Tottenham,0.0,0.0,52.0,"40,773",John McGinn,4-2-3-1,4-2-3-1,Anthony Taylor,Aston Villa
+157,2025-02-15,15:00 (16:00),Premier League,Matchweek 25,Sat,Home,D,1,1,Ipswich Town,2.4,0.4,75.0,"42,510",John McGinn,4-2-3-1,4-2-3-1,Robert Jones,Aston Villa
+158,2025-02-19,19:30 (20:30),Premier League,Matchweek 29,Wed,Home,D,2,2,Liverpool,0.6,2.5,52.0,"41,910",John McGinn,4-2-3-1,4-2-3-1,Craig Pawson,Aston Villa
+159,2025-02-22,17:30 (18:30),Premier League,Matchweek 26,Sat,Home,W,2,1,Chelsea,2.3,2.3,52.0,"42,423",John McGinn,4-2-3-1,4-2-3-1,Michael Oliver,Aston Villa
+160,2025-02-28,20:00,FA Cup,Fifth round proper,Fri,Home,W,2,0,Cardiff City,0.0,0.0,68.0,"40,175",John McGinn,4-2-3-1,3-4-3,Peter Bankes,Aston Villa
+161,2025-03-12,20:00,Champions Lg,Round of 16,Wed,Home,W,3,0,be Club Brugge,2.4,0.1,53.0,"42,461",John McGinn,4-2-3-1,4-2-3-1,Daniel Siebert,Aston Villa
+162,2025-04-05,17:30 (16:30),Premier League,Matchweek 31,Sat,Home,W,2,1,Nott'ham Forest,3.0,1.5,52.0,"42,743",Emiliano Martínez,4-2-3-1,3-4-1-2,Simon Hooper,Aston Villa
+163,2025-04-15,20:00,Champions Lg,Quarter-finals,Tue,Home,W,3,2,fr Paris S-G,1.8,1.5,35.0,"42,535",John McGinn,4-2-3-1,4-3-3,Jose Maria Sánchez,Aston Villa
+164,2025-04-19,17:30,Premier League,Matchweek 33,Sat,Home,W,4,1,Newcastle Utd,2.2,1.0,48.0,"42,618",John McGinn,4-2-3-1,4-3-3,Jarred Gillett,Aston Villa
+165,2025-05-03,12:30,Premier League,Matchweek 35,Sat,Home,W,1,0,Fulham,1.0,0.9,52.0,"42,515",John McGinn,4-2-3-1,4-2-3-1,Robert Jones,Aston Villa
+166,2025-05-16,19:30,Premier League,Matchweek 37,Fri,Home,W,2,0,Tottenham,1.4,0.5,67.0,"42,239",John McGinn,4-2-3-1,4-2-3-1,Peter Bankes,Aston Villa
+167,2024-08-17,15:00,Premier League,Matchweek 1,Sat,Home,D,1,1,Bournemouth,1.3,1.2,53.0,"29,763",Morgan Gibbs-White,4-2-3-1,4-2-3-1,Michael Oliver,Nott'ham Forest
+168,2024-08-28,20:00,EFL Cup,Second round,Wed,Home,D,1 (3),1 (4),Newcastle Utd,0.0,0.0,42.0,"23,083",Willy Boly,3-4-1-2,4-3-3,Samuel Allison,Nott'ham Forest
+169,2024-08-31,15:00,Premier League,Matchweek 3,Sat,Home,D,1,1,Wolves,1.0,0.7,52.0,"29,918",Morgan Gibbs-White,4-2-3-1,4-4-1-1,Simon Hooper,Nott'ham Forest
+170,2024-09-28,15:00,Premier League,Matchweek 6,Sat,Home,L,0,1,Fulham,0.8,1.3,41.0,"30,139",Ryan Yates,4-4-2,4-2-3-1,Joshua Smith,Nott'ham Forest
+171,2024-10-21,20:00,Premier League,Matchweek 8,Mon,Home,W,1,0,Crystal Palace,1.7,1.0,51.0,"29,443",Ryan Yates,4-2-3-1,3-1-4-2,Tim Robinson,Nott'ham Forest
+172,2024-11-02,15:00 (16:00),Premier League,Matchweek 10,Sat,Home,W,3,0,West Ham,2.2,0.1,54.0,"30,112",Ryan Yates,4-2-3-1,3-4-3,Peter Bankes,Nott'ham Forest
+173,2024-11-10,14:00 (15:00),Premier League,Matchweek 11,Sun,Home,L,1,3,Newcastle Utd,0.6,1.6,44.0,"30,145",Ryan Yates,4-2-3-1,4-3-3,Anthony Taylor,Nott'ham Forest
+174,2024-11-30,15:00 (16:00),Premier League,Matchweek 13,Sat,Home,W,1,0,Ipswich Town,1.6,0.6,45.0,"30,237",Ryan Yates,4-2-3-1,4-2-3-1,Tony Harrington,Nott'ham Forest
+175,2024-12-14,17:30 (18:30),Premier League,Matchweek 16,Sat,Home,W,2,1,Aston Villa,1.7,0.4,50.0,"30,117",Ryan Yates,4-2-3-1,4-2-3-1,Samuel Barrott,Nott'ham Forest
+176,2024-12-26,15:00 (16:00),Premier League,Matchweek 18,Thu,Home,W,1,0,Tottenham,1.1,0.9,30.0,"30,200",Ryan Yates,4-2-3-1,4-2-3-1,Craig Pawson,Nott'ham Forest
+177,2025-01-11,15:00 (16:00),FA Cup,Third round proper,Sat,Home,W,2,0,Luton Town,0.0,0.0,0.0,"29,445",Ryan Yates,3-4-3,4-2-3-1,Darren England,Nott'ham Forest
+178,2025-01-14,20:00 (21:00),Premier League,Matchweek 21,Tue,Home,D,1,1,Liverpool,0.3,2.0,30.0,"30,249",Ryan Yates,4-2-3-1,4-2-3-1,Chris Kavanagh,Nott'ham Forest
+179,2025-01-19,14:00 (15:00),Premier League,Matchweek 22,Sun,Home,W,3,2,Southampton,1.8,0.9,45.0,"30,180",Morgan Gibbs-White,4-2-3-1,3-4-1-2,Anthony Taylor,Nott'ham Forest
+180,2025-02-01,12:30 (13:30),Premier League,Matchweek 24,Sat,Home,W,7,0,Brighton,3.3,0.9,38.0,"30,164",Morgan Gibbs-White,3-5-2,4-1-4-1,Simon Hooper,Nott'ham Forest
+181,2025-02-26,19:30,Premier League,Matchweek 27,Wed,Home,D,0,0,Arsenal,0.4,1.0,36.0,"30,200",Morgan Gibbs-White,4-2-3-1,4-3-3,Andy Madley,Nott'ham Forest
+182,2025-03-03,19:30,FA Cup,Fifth round proper,Mon,Home,D,1 (5),1 (4),Ipswich Town,0.0,0.0,54.0,"29,171",Ryan Yates,4-2-3-1,4-2-3-1,Tony Harrington,Nott'ham Forest
+183,2025-03-08,12:30,Premier League,Matchweek 28,Sat,Home,W,1,0,Manchester City,0.7,0.9,31.0,"30,252",Morgan Gibbs-White,4-2-3-1,4-1-4-1,Chris Kavanagh,Nott'ham Forest
+184,2025-04-01,20:00 (19:00),Premier League,Matchweek 30,Tue,Home,W,1,0,Manchester Utd,0.5,1.6,32.0,"30,249",Ryan Yates,4-2-3-1,3-4-3,Jarred Gillett,Nott'ham Forest
+185,2025-04-12,15:00,Premier League,Matchweek 32,Sat,Home,L,0,1,Everton,0.5,1.4,43.0,"30,199",Morgan Gibbs-White,4-2-3-1,4-2-3-1,Craig Pawson,Nott'ham Forest
+186,2025-04-27,16:30,FA Cup,Semi-finals,Sun,Home,L,0,2,Manchester City,0.0,0.0,33.0,"72,976",Morgan Gibbs-White,4-4-2,4-3-1-2,Michael Oliver,Nott'ham Forest
+187,2025-05-01,19:30,Premier League,Matchweek 34,Thu,Home,L,0,2,Brentford,0.9,1.3,55.0,"29,040",Ryan Yates,4-2-3-1,4-2-3-1,Darren England,Nott'ham Forest
+188,2025-05-11,14:15,Premier League,Matchweek 36,Sun,Home,D,2,2,Leicester City,1.3,1.1,55.0,"30,245",Morgan Gibbs-White,4-2-3-1,4-2-3-1,Tony Harrington,Nott'ham Forest
+189,2025-05-25,16:00,Premier League,Matchweek 38,Sun,Home,L,0,1,Chelsea,1.2,1.1,52.0,"30,263",Morgan Gibbs-White,4-3-1-2,4-2-3-1,Anthony Taylor,Nott'ham Forest
+190,2024-08-24,12:30,Premier League,Matchweek 2,Sat,Home,W,2,1,Manchester Utd,2.1,1.4,48.0,"31,537",Lewis Dunk,4-2-3-1,4-2-3-1,Craig Pawson,Brighton
+191,2024-08-27,19:45,EFL Cup,Second round,Tue,Home,W,4,0,Crawley Town,0.0,0.0,44.0,"19,175",Adam Webster,4-2-3-1,3-4-3,Alex Chilowicz,Brighton
+192,2024-09-14,15:00,Premier League,Matchweek 4,Sat,Home,D,0,0,Ipswich Town,1.6,0.3,68.0,"41,573",Lewis Dunk,4-4-2,4-2-3-1,Samuel Barrott,Brighton
+193,2024-09-18,19:45,EFL Cup,Third round,Wed,Home,W,3,2,Wolves,0.0,0.0,54.0,"16,018",Jason Steele,4-4-2,4-2-3-1,John Brooks,Brighton
+194,2024-09-22,14:00,Premier League,Matchweek 5,Sun,Home,D,2,2,Nott'ham Forest,1.0,1.4,70.0,"31,444",Lewis Dunk,4-2-3-1,4-2-3-1,Robert Jones,Brighton
+195,2024-10-06,16:30,Premier League,Matchweek 7,Sun,Home,W,3,2,Tottenham,1.8,1.3,41.0,"31,487",Lewis Dunk,4-2-3-1,4-3-3,David Coote,Brighton
+196,2024-10-26,15:00,Premier League,Matchweek 9,Sat,Home,D,2,2,Wolves,1.3,1.3,51.0,"31,840",Danny Welbeck,4-4-2,3-4-3,Michael Oliver,Brighton
+197,2024-10-30,19:30 (20:30),EFL Cup,Fourth round,Wed,Home,L,2,3,Liverpool,0.0,0.0,45.0,"28,441",Jason Steele,4-2-3-1,4-4-2,Darren Bond,Brighton
+198,2024-11-09,17:30 (18:30),Premier League,Matchweek 11,Sat,Home,W,2,1,Manchester City,2.3,2.1,40.0,"31,715",Danny Welbeck,4-4-2,4-1-4-1,Samuel Barrott,Brighton
+199,2024-11-29,20:00 (21:00),Premier League,Matchweek 13,Fri,Home,D,1,1,Southampton,1.7,1.0,53.0,"31,542",Danny Welbeck,4-4-2,5-4-1,Robert Jones,Brighton
+200,2024-12-15,14:00 (15:00),Premier League,Matchweek 16,Sun,Home,L,1,3,Crystal Palace,1.0,2.2,64.0,"30,893",Lewis Dunk,4-2-3-1,3-4-3,Michael Oliver,Brighton
+201,2024-12-27,19:30 (20:30),Premier League,Matchweek 18,Fri,Home,D,0,0,Brentford,1.3,1.1,57.0,"31,548",Lewis Dunk,4-2-3-1,4-2-3-1,Andy Madley,Brighton
+202,2025-01-04,17:30 (18:30),Premier League,Matchweek 20,Sat,Home,D,1,1,Arsenal,1.5,0.9,45.0,"31,714",João Pedro,4-2-3-1,4-3-3,Anthony Taylor,Brighton
+203,2025-01-25,15:00 (16:00),Premier League,Matchweek 23,Sat,Home,L,0,1,Everton,0.7,0.8,69.0,"31,087",Lewis Dunk,4-2-3-1,4-2-3-1,Tim Robinson,Brighton
+204,2025-02-08,20:00 (21:00),FA Cup,Fourth round proper,Sat,Home,W,2,1,Chelsea,0.0,0.0,43.0,"23,279",Lewis Dunk,4-2-3-1,4-2-3-1,Jarred Gillett,Brighton
+205,2025-02-14,20:00 (21:00),Premier League,Matchweek 25,Fri,Home,W,3,0,Chelsea,1.4,0.5,31.0,"31,324",Danny Welbeck,5-4-1,4-2-3-1,Chris Kavanagh,Brighton
+206,2025-02-25,19:30,Premier League,Matchweek 27,Tue,Home,W,2,1,Bournemouth,2.4,1.5,44.0,"31,138",Adam Webster,4-2-3-1,4-2-3-1,Michael Oliver,Brighton
+207,2025-03-08,15:00,Premier League,Matchweek 28,Sat,Home,W,2,1,Fulham,1.5,0.9,53.0,"31,584",Adam Webster,4-2-3-1,3-4-3,Samuel Barrott,Brighton
+208,2025-03-29,17:15,FA Cup,Quarter-finals,Sat,Home,D,0 (3),0 (4),Nott'ham Forest,0.0,0.0,53.0,"29,930",Danny Welbeck,4-2-3-1,4-2-3-1,Peter Bankes,Brighton
+209,2025-04-02,19:45 (18:45),Premier League,Matchweek 30,Wed,Home,L,0,3,Aston Villa,0.9,1.2,56.0,"27,895",Lewis Dunk,4-2-3-1,4-2-3-1,Stuart Attwell,Brighton
+210,2025-04-12,15:00,Premier League,Matchweek 32,Sat,Home,D,2,2,Leicester City,3.8,1.5,59.0,"31,150",Lewis Dunk,4-1-4-1,4-2-3-1,Darren Bond,Brighton
+211,2025-04-26,15:00,Premier League,Matchweek 34,Sat,Home,W,3,2,West Ham,1.3,1.3,53.0,"31,499",Lewis Dunk,4-2-3-1,3-5-2,Darren England,Brighton
+212,2025-05-04,14:00,Premier League,Matchweek 35,Sun,Home,D,1,1,Newcastle Utd,0.7,1.7,45.0,"31,580",Lewis Dunk,4-2-3-1,4-3-3,Craig Pawson,Brighton
+213,2025-05-19,20:00,Premier League,Matchweek 37,Mon,Home,W,3,2,Liverpool,2.2,2.2,49.0,"31,611",Danny Welbeck,4-2-3-1,4-2-3-1,Andy Madley,Brighton
+214,2024-08-25,14:00,Premier League,Matchweek 2,Sun,Home,D,1,1,Newcastle Utd,2.2,1.6,39.0,"11,161",Neto,4-2-3-1,4-3-3,David Coote,Bournemouth
+215,2024-09-14,20:00,Premier League,Matchweek 4,Sat,Home,L,0,1,Chelsea,1.7,0.8,34.0,"11,235",Adam Smith,4-2-3-1,4-2-3-1,Anthony Taylor,Bournemouth
+216,2024-09-30,20:00,Premier League,Matchweek 6,Mon,Home,W,3,1,Southampton,1.3,0.6,40.0,"11,243",Adam Smith,4-2-3-1,4-2-3-1,Michael Oliver,Bournemouth
+217,2024-10-19,17:30,Premier League,Matchweek 8,Sat,Home,W,2,0,Arsenal,1.8,0.7,49.0,"11,235",Lewis Cook,4-2-3-1,4-2-3-1,Robert Jones,Bournemouth
+218,2024-11-02,15:00 (16:00),Premier League,Matchweek 10,Sat,Home,W,2,1,Manchester City,2.0,1.6,36.0,"11,231",Adam Smith,4-2-3-1,4-1-4-1,Michael Oliver,Bournemouth
+219,2024-11-23,15:00 (16:00),Premier League,Matchweek 12,Sat,Home,L,1,2,Brighton,1.6,0.9,55.0,"11,196",Adam Smith,4-2-3-1,4-2-3-1,Stuart Attwell,Bournemouth
+220,2024-12-05,20:15 (21:15),Premier League,Matchweek 14,Thu,Home,W,1,0,Tottenham,3.5,0.9,35.0,"11,234",Adam Smith,4-2-3-1,4-3-3,Simon Hooper,Bournemouth
+221,2024-12-16,20:00 (21:00),Premier League,Matchweek 16,Mon,Home,D,1,1,West Ham,1.9,2.1,52.0,"11,204",Adam Smith,4-2-3-1,4-1-4-1,Chris Kavanagh,Bournemouth
+222,2024-12-26,15:00 (16:00),Premier League,Matchweek 18,Thu,Home,D,0,0,Crystal Palace,1.4,0.4,52.0,"11,129",Lewis Cook,4-2-3-1,3-4-3,Thomas Bramall,Bournemouth
+223,2025-01-04,15:00 (16:00),Premier League,Matchweek 20,Sat,Home,W,1,0,Everton,1.8,0.7,58.0,"11,223",Lewis Cook,4-2-3-1,4-2-3-1,John Brooks,Bournemouth
+224,2025-01-11,15:00 (16:00),FA Cup,Third round proper,Sat,Home,W,5,1,West Brom,0.0,0.0,0.0,"10,916",David Brooks,4-2-3-1,4-4-2,John Busby,Bournemouth
+225,2025-01-25,15:00 (16:00),Premier League,Matchweek 23,Sat,Home,W,5,0,Nott'ham Forest,1.7,1.0,50.0,"11,228",Lewis Cook,4-2-3-1,4-2-3-1,Craig Pawson,Bournemouth
+226,2025-02-01,15:00 (16:00),Premier League,Matchweek 24,Sat,Home,L,0,2,Liverpool,1.6,2.5,49.0,"11,239",Lewis Cook,4-2-3-1,4-2-3-1,Darren England,Bournemouth
+227,2025-02-22,15:00 (16:00),Premier League,Matchweek 26,Sat,Home,L,0,1,Wolves,0.9,2.0,46.0,"11,206",Lewis Cook,4-2-3-1,3-4-3,Michael Salisbury,Bournemouth
+228,2025-03-01,15:00,FA Cup,Fifth round proper,Sat,Home,D,1 (5),1 (4),Wolves,0.0,0.0,67.0,"11,021",Lewis Cook,4-2-3-1,3-4-3,Chris Kavanagh,Bournemouth
+229,2025-03-15,17:30,Premier League,Matchweek 29,Sat,Home,L,1,2,Brentford,1.6,0.8,58.0,"11,180",Lewis Cook,4-2-3-1,4-2-3-1,Craig Pawson,Bournemouth
+230,2025-03-30,16:30 (15:30),FA Cup,Quarter-finals,Sun,Home,L,1,2,Manchester City,0.0,0.0,36.0,"10,954",Lewis Cook,4-2-3-1,4-3-3,Stuart Attwell,Bournemouth
+231,2025-04-02,19:45 (18:45),Premier League,Matchweek 30,Wed,Home,L,1,2,Ipswich Town,1.8,1.2,63.0,"11,192",Adam Smith,4-2-3-1,4-2-3-1,Robert Jones,Bournemouth
+232,2025-04-14,20:00,Premier League,Matchweek 32,Mon,Home,W,1,0,Fulham,1.4,1.0,41.0,"11,195",Adam Smith,4-2-3-1,4-2-3-1,Michael Oliver,Bournemouth
+233,2025-04-27,14:00,Premier League,Matchweek 34,Sun,Home,D,1,1,Manchester Utd,0.5,2.3,39.0,"11,241",Adam Smith,4-2-3-1,3-4-3,Peter Bankes,Bournemouth
+234,2025-05-10,17:30,Premier League,Matchweek 36,Sat,Home,L,0,1,Aston Villa,0.8,1.0,66.0,"11,187",Adam Smith,4-2-3-1,4-2-3-1,Stuart Attwell,Bournemouth
+235,2025-05-25,16:00,Premier League,Matchweek 38,Sun,Home,W,2,0,Leicester City,1.6,0.3,63.0,"11,238",Adam Smith,4-2-3-1,4-2-3-1,Lewis Smith,Bournemouth
+236,2024-08-18,14:00,Premier League,Matchweek 1,Sun,Home,W,2,1,Crystal Palace,1.6,1.2,46.0,"16,988",Christian Nørgaard,4-3-3,3-4-3,Samuel Barrott,Brentford
+237,2024-08-31,15:00,Premier League,Matchweek 3,Sat,Home,W,3,1,Southampton,2.8,1.5,37.0,"16,955",Christian Nørgaard,4-3-3,3-5-2,Joshua Smith,Brentford
+238,2024-09-17,19:45,EFL Cup,Third round,Tue,Home,W,3,1,Leyton Orient,0.0,0.0,63.0,"13,634",Christian Nørgaard,4-3-3,4-1-4-1,Lewis Smith,Brentford
+239,2024-09-28,15:00,Premier League,Matchweek 6,Sat,Home,D,1,1,West Ham,0.4,1.0,57.0,"17,050",Vitaly Janelt,4-4-2,4-1-4-1,Simon Hooper,Brentford
+240,2024-10-05,15:00,Premier League,Matchweek 7,Sat,Home,W,5,3,Wolves,4.2,1.0,44.0,"16,960",Christian Nørgaard,4-2-3-1,4-1-4-1,Andy Madley,Brentford
+241,2024-10-26,15:00,Premier League,Matchweek 9,Sat,Home,W,4,3,Ipswich Town,4.0,1.3,65.0,"17,109",Christian Nørgaard,4-2-3-1,4-2-3-1,Lewis Smith,Brentford
+242,2024-10-29,20:00 (21:00),EFL Cup,Fourth round,Tue,Home,D,1 (5),1 (4),Sheffield Weds,0.0,0.0,70.0,"16,701",Mathias Jensen,4-2-3-1,3-4-3,Will Finnie,Brentford
+243,2024-11-09,15:00 (16:00),Premier League,Matchweek 11,Sat,Home,W,3,2,Bournemouth,1.5,2.6,51.0,"16,587",Christian Nørgaard,4-3-3,4-2-3-1,Darren Bond,Brentford
+244,2024-11-30,15:00 (16:00),Premier League,Matchweek 13,Sat,Home,W,4,1,Leicester City,2.4,1.1,60.0,"17,084",Christian Nørgaard,4-2-3-1,3-4-3,Michael Oliver,Brentford
+245,2024-12-07,15:00 (16:00),Premier League,Matchweek 15,Sat,Home,W,4,2,Newcastle Utd,1.2,1.5,43.0,"17,078",Christian Nørgaard,3-4-3,4-3-3,Simon Hooper,Brentford
+246,2024-12-21,15:00 (16:00),Premier League,Matchweek 17,Sat,Home,L,0,2,Nott'ham Forest,0.7,0.9,64.0,"17,115",Christian Nørgaard,4-3-3,3-4-3,Michael Oliver,Brentford
+247,2025-01-01,17:30 (18:30),Premier League,Matchweek 19,Wed,Home,L,1,3,Arsenal,0.3,1.9,50.0,"47,190",Christian Nørgaard,4-3-1-2,4-3-3,Peter Bankes,Brentford
+248,2025-01-11,15:00 (16:00),FA Cup,Third round proper,Sat,Home,L,0,1,Plymouth Argyle,0.0,0.0,0.0,"16,790",Mathias Jensen,4-4-2,3-4-3,Ben Toner,Brentford
+249,2025-01-14,19:30 (20:30),Premier League,Matchweek 21,Tue,Home,D,2,2,Manchester City,2.5,2.2,45.0,"17,048",Christian Nørgaard,4-3-3,4-2-3-1,Anthony Taylor,Brentford
+250,2025-01-18,15:00 (16:00),Premier League,Matchweek 22,Sat,Home,L,0,2,Liverpool,0.7,3.4,40.0,"17,215",Christian Nørgaard,4-2-3-1,4-2-3-1,Andy Madley,Brentford
+251,2025-02-02,14:00 (15:00),Premier League,Matchweek 24,Sun,Home,L,0,2,Tottenham,2.1,0.8,54.0,"17,154",Christian Nørgaard,4-2-3-1,4-2-3-1,Jarred Gillett,Brentford
+252,2025-02-26,19:30,Premier League,Matchweek 27,Wed,Home,D,1,1,Everton,1.4,1.5,52.0,"17,082",Vitaly Janelt,4-2-3-1,4-2-3-1,Simon Hooper,Brentford
+253,2025-03-08,17:30,Premier League,Matchweek 28,Sat,Home,L,0,1,Aston Villa,0.8,1.3,59.0,"17,171",Christian Nørgaard,4-2-3-1,4-2-3-1,Jarred Gillett,Brentford
+254,2025-04-06,14:00,Premier League,Matchweek 31,Sun,Home,D,0,0,Chelsea,1.1,1.2,42.0,"17,183",Christian Nørgaard,4-2-3-1,4-2-3-1,Michael Oliver,Brentford
+255,2025-04-19,15:00,Premier League,Matchweek 33,Sat,Home,W,4,2,Brighton,2.1,1.4,47.0,"17,083",Christian Nørgaard,4-2-3-1,4-2-3-1,Tim Robinson,Brentford
+256,2025-05-04,14:00,Premier League,Matchweek 35,Sun,Home,W,4,3,Manchester Utd,2.8,1.5,47.0,"18,915",Christian Nørgaard,4-2-3-1,3-4-3,Anthony Taylor,Brentford
+257,2025-05-18,15:00,Premier League,Matchweek 37,Sun,Home,L,2,3,Fulham,2.5,1.0,51.0,"17,136",Christian Nørgaard,4-2-3-1,4-2-3-1,Jarred Gillett,Brentford
+258,2024-08-24,15:00,Premier League,Matchweek 2,Sat,Home,W,2,1,Leicester City,1.8,0.6,54.0,"25,401",Bernd Leno,4-2-3-1,4-2-3-1,Darren Bond,Fulham
+259,2024-09-14,15:00,Premier League,Matchweek 4,Sat,Home,D,1,1,West Ham,1.5,0.8,54.0,"26,528",Bernd Leno,4-2-3-1,4-2-3-1,Tim Robinson,Fulham
+260,2024-09-21,15:00,Premier League,Matchweek 5,Sat,Home,W,3,1,Newcastle Utd,2.2,1.5,39.0,"25,700",Bernd Leno,4-2-3-1,4-3-3,Peter Bankes,Fulham
+261,2024-10-19,15:00,Premier League,Matchweek 8,Sat,Home,L,1,3,Aston Villa,1.8,1.6,52.0,"26,743",Bernd Leno,4-2-3-1,4-2-3-1,Darren England,Fulham
+262,2024-11-04,20:00 (21:00),Premier League,Matchweek 10,Mon,Home,W,2,1,Brentford,1.3,0.6,68.0,"24,931",Bernd Leno,4-2-3-1,4-2-3-1,Stuart Attwell,Fulham
+263,2024-11-23,15:00 (16:00),Premier League,Matchweek 12,Sat,Home,L,1,4,Wolves,1.0,1.3,59.0,"26,685",Bernd Leno,4-2-3-1,3-4-3,Robert Jones,Fulham
+264,2024-12-05,19:30 (20:30),Premier League,Matchweek 14,Thu,Home,W,3,1,Brighton,1.1,1.4,43.0,"26,368",Antonee Robinson,4-2-3-1,3-4-3,Peter Bankes,Fulham
+265,2024-12-08,14:00 (15:00),Premier League,Matchweek 15,Sun,Home,D,1,1,Arsenal,0.2,1.8,34.0,"26,954",Antonee Robinson,4-2-3-1,4-3-3,Chris Kavanagh,Fulham
+266,2024-12-22,14:00 (15:00),Premier League,Matchweek 17,Sun,Home,D,0,0,Southampton,0.9,0.3,57.0,"26,819",Tom Cairney,4-2-3-1,3-4-1-2,Tim Robinson,Fulham
+267,2024-12-29,15:00 (16:00),Premier League,Matchweek 19,Sun,Home,D,2,2,Bournemouth,1.1,2.0,52.0,"27,301",Antonee Robinson,4-5-1,4-2-3-1,Robert Jones,Fulham
+268,2025-01-05,14:00 (15:00),Premier League,Matchweek 20,Sun,Home,D,2,2,Ipswich Town,2.2,1.5,73.0,"27,042",Tom Cairney,3-4-3,5-4-1,Darren Bond,Fulham
+269,2025-01-09,19:45 (20:45),FA Cup,Third round proper,Thu,Home,W,4,1,Watford,0.0,0.0,0.0,"15,981",Andreas Pereira,4-2-3-1,5-4-1,Matt Donohue,Fulham
+270,2025-01-26,19:00 (20:00),Premier League,Matchweek 23,Sun,Home,L,0,1,Manchester Utd,0.7,0.3,51.0,"27,288",Antonee Robinson,4-2-3-1,3-4-3,Anthony Taylor,Fulham
+271,2025-02-15,15:00 (16:00),Premier League,Matchweek 25,Sat,Home,W,2,1,Nott'ham Forest,2.1,0.4,55.0,"27,164",Antonee Robinson,4-2-3-1,3-5-2,Thomas Bramall,Fulham
+272,2025-02-22,15:00 (16:00),Premier League,Matchweek 26,Sat,Home,L,0,2,Crystal Palace,0.2,1.3,62.0,"26,777",Antonee Robinson,4-2-3-1,3-4-3,Robert Jones,Fulham
+273,2025-03-16,13:30,Premier League,Matchweek 29,Sun,Home,W,2,0,Tottenham,1.0,0.9,57.0,"27,182",Antonee Robinson,4-2-3-1,4-3-3,Andy Madley,Fulham
+274,2025-03-29,12:15,FA Cup,Quarter-finals,Sat,Home,L,0,3,Crystal Palace,0.0,0.0,71.0,"26,222",Antonee Robinson,4-2-3-1,3-4-3,Darren England,Fulham
+275,2025-04-06,14:00,Premier League,Matchweek 31,Sun,Home,W,3,2,Liverpool,0.7,1.5,37.0,"27,770",Antonee Robinson,4-2-3-1,4-2-3-1,Chris Kavanagh,Fulham
+276,2025-04-20,14:00,Premier League,Matchweek 33,Sun,Home,L,1,2,Chelsea,0.3,0.9,41.0,"27,712",Antonee Robinson,4-2-3-1,4-2-3-1,Anthony Taylor,Fulham
+277,2025-05-10,15:00,Premier League,Matchweek 36,Sat,Home,L,1,3,Everton,0.8,1.1,64.0,"27,653",Bernd Leno,4-2-3-1,4-2-3-1,Darren England,Fulham
+278,2025-05-25,16:00,Premier League,Matchweek 38,Sun,Home,L,0,2,Manchester City,1.3,3.0,47.0,"27,671",Tom Cairney,4-2-3-1,4-2-3-1,Andy Madley,Fulham
+279,2024-08-24,15:00,Premier League,Matchweek 2,Sat,Home,L,0,2,West Ham,1.3,1.4,58.0,"25,099",Marc Guéhi,3-4-3,4-1-4-1,Robert Jones,Crystal Palace
+280,2024-08-27,20:00,EFL Cup,Second round,Tue,Home,W,4,0,Norwich City,0.0,0.0,44.0,"12,503",Marc Guéhi,3-4-3,4-2-3-1,unknown,Crystal Palace
+281,2024-09-14,15:00,Premier League,Matchweek 4,Sat,Home,D,2,2,Leicester City,2.5,1.2,66.0,"25,147",Marc Guéhi,3-4-3,4-2-3-1,Tony Harrington,Crystal Palace
+282,2024-09-21,17:30,Premier League,Matchweek 5,Sat,Home,D,0,0,Manchester Utd,1.0,1.6,33.0,"25,172",Marc Guéhi,3-4-3,4-2-3-1,David Coote,Crystal Palace
+283,2024-10-05,12:30,Premier League,Matchweek 7,Sat,Home,L,0,1,Liverpool,0.6,1.4,32.0,"25,185",Marc Guéhi,3-4-3,4-2-3-1,Simon Hooper,Crystal Palace
+284,2024-10-27,14:00 (15:00),Premier League,Matchweek 9,Sun,Home,W,1,0,Tottenham,0.8,0.7,34.0,"25,108",Marc Guéhi,3-4-3,4-3-3,Darren Bond,Crystal Palace
+285,2024-11-09,15:00 (16:00),Premier League,Matchweek 11,Sat,Home,L,0,2,Fulham,1.5,1.8,36.0,"25,142",Marc Guéhi,3-4-3,4-2-3-1,Michael Salisbury,Crystal Palace
+286,2024-11-30,15:00 (16:00),Premier League,Matchweek 13,Sat,Home,D,1,1,Newcastle Utd,1.7,0.0,49.0,"25,101",Marc Guéhi,3-4-3,4-3-3,Darren England,Crystal Palace
+287,2024-12-07,15:00 (16:00),Premier League,Matchweek 15,Sat,Home,D,2,2,Manchester City,1.3,1.4,32.0,"25,142",Marc Guéhi,3-4-3,4-2-3-1,Robert Jones,Crystal Palace
+288,2024-12-21,17:30 (18:30),Premier League,Matchweek 17,Sat,Home,L,1,5,Arsenal,1.6,2.5,42.0,"25,167",Marc Guéhi,3-4-3,4-3-3,Simon Hooper,Crystal Palace
+289,2024-12-29,15:00 (16:00),Premier League,Matchweek 19,Sun,Home,W,2,1,Southampton,2.0,0.9,47.0,"25,130",Will Hughes,3-4-3,3-4-3,Michael Salisbury,Crystal Palace
+290,2025-01-04,15:00 (16:00),Premier League,Matchweek 20,Sat,Home,D,1,1,Chelsea,1.1,1.2,39.0,"25,179",Marc Guéhi,3-4-3,4-2-3-1,Tim Robinson,Crystal Palace
+291,2025-01-12,15:00 (16:00),FA Cup,Third round proper,Sun,Home,W,1,0,Stockport,0.0,0.0,0.0,"21,104",Marc Guéhi,3-4-3,3-5-2,Stuart Attwell,Crystal Palace
+292,2025-01-26,14:00 (15:00),Premier League,Matchweek 23,Sun,Home,L,1,2,Brentford,1.1,1.3,47.0,"25,066",Marc Guéhi,3-4-3,4-2-3-1,Tony Harrington,Crystal Palace
+293,2025-02-15,17:30 (18:30),Premier League,Matchweek 25,Sat,Home,L,1,2,Everton,1.6,0.9,58.0,"25,108",Marc Guéhi,3-4-3,4-2-3-1,Anthony Taylor,Crystal Palace
+294,2025-02-25,19:30,Premier League,Matchweek 27,Tue,Home,W,4,1,Aston Villa,4.3,0.4,36.0,"24,712",Marc Guéhi,3-4-3,3-4-3,Samuel Barrott,Crystal Palace
+295,2025-03-01,12:15,FA Cup,Fifth round proper,Sat,Home,W,3,1,Millwall,0.0,0.0,76.0,"21,263",Marc Guéhi,3-4-3,4-2-3-1,Michael Oliver,Crystal Palace
+296,2025-03-08,15:00,Premier League,Matchweek 28,Sat,Home,W,1,0,Ipswich Town,3.2,1.5,55.0,"25,155",Marc Guéhi,3-4-3,4-2-3-1,Simon Hooper,Crystal Palace
+297,2025-04-05,15:00 (14:00),Premier League,Matchweek 31,Sat,Home,W,2,1,Brighton,0.6,1.0,38.0,"24,564",Marc Guéhi,3-4-3,4-2-3-1,Anthony Taylor,Crystal Palace
+298,2025-04-19,15:00,Premier League,Matchweek 33,Sat,Home,D,0,0,Bournemouth,0.4,0.7,29.0,"25,185",Marc Guéhi,3-4-3,4-2-3-1,Samuel Barrott,Crystal Palace
+299,2025-04-26,17:15,FA Cup,Semi-finals,Sat,Home,W,3,0,Aston Villa,0.0,0.0,30.0,"82,301",Marc Guéhi,3-4-3,4-2-3-1,Anthony Taylor,Crystal Palace
+300,2025-05-05,20:00,Premier League,Matchweek 35,Mon,Home,D,1,1,Nott'ham Forest,2.3,0.7,50.0,"25,096",Marc Guéhi,3-4-3,4-2-3-1,Andy Madley,Crystal Palace
+301,2025-05-20,20:00,Premier League,Matchweek 37,Tue,Home,W,4,2,Wolves,1.7,1.4,31.0,"24,766",Joel Ward,3-4-3,3-4-3,David Webb,Crystal Palace
+302,2024-08-17,15:00,Premier League,Matchweek 1,Sat,Home,L,0,3,Brighton,0.5,1.4,40.0,"39,217",James Tarkowski,4-2-3-1,4-2-3-1,Simon Hooper,Everton
+303,2024-08-27,19:45,EFL Cup,Second round,Tue,Home,W,3,0,Doncaster,0.0,0.0,61.0,"37,245",Séamus Coleman,4-2-3-1,4-1-4-1,James Bell,Everton
+304,2024-08-31,15:00,Premier League,Matchweek 3,Sat,Home,L,2,3,Bournemouth,1.8,2.4,47.0,"38,805",Séamus Coleman,4-2-3-1,4-2-3-1,Stuart Attwell,Everton
+305,2024-09-17,19:45,EFL Cup,Third round,Tue,Home,D,1 (5),1 (6),Southampton,0.0,0.0,26.0,"33,842",Abdoulaye Doucouré,4-2-3-1,4-2-3-1,Darren Bond,Everton
+306,2024-09-28,15:00,Premier League,Matchweek 6,Sat,Home,W,2,1,Crystal Palace,0.9,0.9,41.0,"38,954",James Tarkowski,4-2-3-1,3-4-3,Andy Madley,Everton
+307,2024-10-05,17:30,Premier League,Matchweek 7,Sat,Home,D,0,0,Newcastle Utd,0.7,2.1,33.0,"39,265",James Tarkowski,4-2-3-1,4-3-3,Craig Pawson,Everton
+308,2024-10-26,17:30,Premier League,Matchweek 9,Sat,Home,D,1,1,Fulham,0.8,1.2,40.0,"38,742",James Tarkowski,4-2-3-1,4-2-3-1,John Brooks,Everton
+309,2024-11-23,15:00 (16:00),Premier League,Matchweek 12,Sat,Home,D,0,0,Brentford,1.2,1.1,59.0,"38,915",James Tarkowski,4-2-3-1,4-3-3,Chris Kavanagh,Everton
+310,2024-12-04,19:30 (20:30),Premier League,Matchweek 14,Wed,Home,W,4,0,Wolves,1.0,0.8,44.0,"38,820",James Tarkowski,4-2-3-1,3-4-3,Michael Salisbury,Everton
+311,2024-12-22,14:00 (15:00),Premier League,Matchweek 17,Sun,Home,D,0,0,Chelsea,1.0,1.2,25.0,"39,358",James Tarkowski,4-3-3,4-2-3-1,Chris Kavanagh,Everton
+312,2024-12-29,15:00 (16:00),Premier League,Matchweek 19,Sun,Home,L,0,2,Nott'ham Forest,0.9,1.5,64.0,"25,414",James Tarkowski,4-3-3,4-2-3-1,Tony Harrington,Everton
+313,2025-01-09,19:45 (20:45),FA Cup,Third round proper,Thu,Home,W,2,0,P'borough Utd,0.0,0.0,0.0,"38,895",Idrissa Gana Gueye,3-4-3,3-5-1-1,Thomas Bramall,Everton
+314,2025-01-15,19:30 (20:30),Premier League,Matchweek 21,Wed,Home,L,0,1,Aston Villa,1.1,1.2,50.0,"39,085",James Tarkowski,4-2-3-1,4-2-3-1,Samuel Barrott,Everton
+315,2025-01-19,14:00 (15:00),Premier League,Matchweek 22,Sun,Home,W,3,2,Tottenham,1.8,1.1,36.0,"39,326",James Tarkowski,4-2-3-1,3-4-3,Darren England,Everton
+316,2025-02-01,15:00 (16:00),Premier League,Matchweek 24,Sat,Home,W,4,0,Leicester City,2.5,0.3,48.0,"39,376",James Tarkowski,4-2-3-1,4-2-3-1,Darren Bond,Everton
+317,2025-02-08,15:00 (16:00),FA Cup,Fourth round proper,Sat,Home,L,0,2,Bournemouth,0.0,0.0,58.0,"38,909",James Tarkowski,4-2-3-1,4-2-3-1,John Brooks,Everton
+318,2025-02-12,19:30 (20:30),Premier League,Matchweek 15,Wed,Home,D,2,2,Liverpool,1.0,0.6,37.0,"39,280",James Tarkowski,4-2-3-1,4-2-3-1,Michael Oliver,Everton
+319,2025-02-22,12:30 (13:30),Premier League,Matchweek 26,Sat,Home,D,2,2,Manchester Utd,1.6,0.4,38.0,"39,290",James Tarkowski,4-2-3-1,3-4-3,Andy Madley,Everton
+320,2025-03-15,15:00,Premier League,Matchweek 29,Sat,Home,D,1,1,West Ham,1.0,0.8,54.0,"39,343",James Tarkowski,4-2-3-1,3-5-2,Darren Bond,Everton
+321,2025-04-05,12:30 (11:30),Premier League,Matchweek 31,Sat,Home,D,1,1,Arsenal,1.1,1.8,31.0,"39,316",James Tarkowski,4-2-3-1,4-3-3,Darren England,Everton
+322,2025-04-19,15:00,Premier League,Matchweek 33,Sat,Home,L,0,2,Manchester City,0.9,2.0,33.0,"39,332",James Tarkowski,4-2-3-1,4-2-3-1,Simon Hooper,Everton
+323,2025-05-03,15:00,Premier League,Matchweek 35,Sat,Home,D,2,2,Ipswich Town,0.6,0.8,58.0,"39,305",Jordan Pickford,4-2-3-1,4-2-3-1,Lewis Smith,Everton
+324,2025-05-18,12:00,Premier League,Matchweek 37,Sun,Home,W,2,0,Southampton,2.7,1.2,50.0,"39,201",Séamus Coleman,4-2-3-1,3-4-3,Michael Oliver,Everton
+325,2024-08-17,17:30,Premier League,Matchweek 1,Sat,Home,L,1,2,Aston Villa,2.3,2.0,52.0,"62,463",Jarrod Bowen,4-1-4-1,4-2-3-1,Tony Harrington,West Ham
+326,2024-08-28,19:45,EFL Cup,Second round,Wed,Home,W,1,0,Bournemouth,0.0,0.0,48.0,"47,381",Jarrod Bowen,4-1-4-1,4-2-3-1,Peter Bankes,West Ham
+327,2024-08-31,17:30,Premier League,Matchweek 3,Sat,Home,L,1,3,Manchester City,0.7,3.0,33.0,"62,469",Jarrod Bowen,4-2-3-1,3-2-4-1,Michael Oliver,West Ham
+328,2024-09-21,12:30,Premier League,Matchweek 5,Sat,Home,L,0,3,Chelsea,0.9,2.2,53.0,"62,473",Jarrod Bowen,3-4-3,4-2-3-1,Samuel Barrott,West Ham
+329,2024-10-05,15:00,Premier League,Matchweek 7,Sat,Home,W,4,1,Ipswich Town,3.6,0.6,52.0,"62,467",Jarrod Bowen,4-1-4-1,4-2-3-1,Anthony Taylor,West Ham
+330,2024-10-27,14:00 (15:00),Premier League,Matchweek 9,Sun,Home,W,2,1,Manchester Utd,2.8,2.3,42.0,"62,474",Jarrod Bowen,4-2-3-1,4-2-3-1,David Coote,West Ham
+331,2024-11-09,15:00 (16:00),Premier League,Matchweek 11,Sat,Home,D,0,0,Everton,0.8,1.1,49.0,"62,463",Jarrod Bowen,4-1-4-1,4-2-3-1,Stuart Attwell,West Ham
+332,2024-11-30,17:30 (18:30),Premier League,Matchweek 13,Sat,Home,L,2,5,Arsenal,1.5,3.5,40.0,"62,475",Jarrod Bowen,4-2-3-1,4-3-3,Anthony Taylor,West Ham
+333,2024-12-09,20:00 (21:00),Premier League,Matchweek 15,Mon,Home,W,2,1,Wolves,1.0,1.4,54.0,"62,474",Jarrod Bowen,4-2-3-1,3-4-3,John Brooks,West Ham
+334,2024-12-21,15:00 (16:00),Premier League,Matchweek 17,Sat,Home,D,1,1,Brighton,1.2,0.9,47.0,"62,460",Jarrod Bowen,4-1-4-1,4-2-3-1,Robert Jones,West Ham
+335,2024-12-29,17:15 (18:15),Premier League,Matchweek 19,Sun,Home,L,0,5,Liverpool,0.4,3.1,46.0,"62,476",Jarrod Bowen,4-2-3-1,4-2-3-1,Anthony Taylor,West Ham
+336,2025-01-14,19:30 (20:30),Premier League,Matchweek 21,Tue,Home,W,3,2,Fulham,1.0,1.7,44.0,"62,456",Tomáš Souček,4-2-3-1,4-2-3-1,Craig Pawson,West Ham
+337,2025-01-18,15:00 (16:00),Premier League,Matchweek 22,Sat,Home,L,0,2,Crystal Palace,0.3,1.3,53.0,"62,469",Tomáš Souček,3-4-3,3-4-3,Thomas Bramall,West Ham
+338,2025-02-15,15:00 (16:00),Premier League,Matchweek 25,Sat,Home,L,0,1,Brentford,0.8,1.6,58.0,"62,415",Jarrod Bowen,4-2-3-1,4-2-3-1,Darren England,West Ham
+339,2025-02-27,20:00,Premier League,Matchweek 27,Thu,Home,W,2,0,Leicester City,1.3,0.4,58.0,"62,455",Jarrod Bowen,3-5-2,4-2-3-1,Anthony Taylor,West Ham
+340,2025-03-10,20:00,Premier League,Matchweek 28,Mon,Home,L,0,1,Newcastle Utd,0.7,1.4,51.0,"62,463",Jarrod Bowen,3-5-2,4-3-3,Michael Salisbury,West Ham
+341,2025-04-05,15:00 (14:00),Premier League,Matchweek 31,Sat,Home,D,2,2,Bournemouth,0.7,2.1,56.0,"62,459",Jarrod Bowen,4-2-3-1,4-2-3-1,Tim Robinson,West Ham
+342,2025-04-19,15:00,Premier League,Matchweek 33,Sat,Home,D,1,1,Southampton,0.9,0.6,52.0,"62,461",Jarrod Bowen,4-2-3-1,3-4-3,Andrew Kitchen,West Ham
+343,2025-05-04,14:00,Premier League,Matchweek 35,Sun,Home,D,1,1,Tottenham,0.8,0.8,55.0,"62,468",Jarrod Bowen,3-4-3,4-3-3,Michael Oliver,West Ham
+344,2025-05-18,14:15,Premier League,Matchweek 37,Sun,Home,L,1,2,Nott'ham Forest,1.1,1.9,60.0,"62,466",Jarrod Bowen,3-4-1-2,4-3-1-2,Samuel Barrott,West Ham
+345,2024-08-16,20:00,Premier League,Matchweek 1,Fri,Home,W,1,0,Fulham,2.4,0.4,55.0,"73,297",Bruno Fernandes,4-2-3-1,4-2-3-1,Robert Jones,Manchester Utd
+346,2024-09-01,16:00,Premier League,Matchweek 3,Sun,Home,L,0,3,Liverpool,1.4,1.8,53.0,"73,738",Bruno Fernandes,4-2-3-1,4-2-3-1,Anthony Taylor,Manchester Utd
+347,2024-09-17,20:00,EFL Cup,Third round,Tue,Home,W,7,0,Barnsley,0.0,0.0,65.0,"72,063",Casemiro,4-2-3-1,5-3-2,Gavin Ward,Manchester Utd
+348,2024-09-25,20:00,Europa Lg,League phase,Wed,Home,D,1,1,nl Twente,1.3,0.5,57.0,"73,069",Bruno Fernandes,4-2-3-1,4-2-3-1,Simone Sozza,Manchester Utd
+349,2024-09-29,16:30,Premier League,Matchweek 6,Sun,Home,L,0,3,Tottenham,1.0,4.4,39.0,"73,587",Bruno Fernandes,4-2-3-1,4-3-3,Chris Kavanagh,Manchester Utd
+350,2024-10-19,15:00,Premier League,Matchweek 8,Sat,Home,W,2,1,Brentford,1.3,0.9,50.0,"73,738",Bruno Fernandes,4-2-3-1,4-2-3-1,Samuel Barrott,Manchester Utd
+351,2024-10-30,19:45 (20:45),EFL Cup,Fourth round,Wed,Home,W,5,2,Leicester City,0.0,0.0,56.0,"73,470",Bruno Fernandes,4-2-3-1,4-2-3-1,Andy Madley,Manchester Utd
+352,2024-11-03,16:30 (17:30),Premier League,Matchweek 10,Sun,Home,D,1,1,Chelsea,2.0,1.1,46.0,"73,813",Bruno Fernandes,4-2-3-1,4-2-3-1,Robert Jones,Manchester Utd
+353,2024-11-07,20:00 (21:00),Europa Lg,League phase,Thu,Home,W,2,0,gr PAOK,1.1,1.3,52.0,"73,174",Bruno Fernandes,4-2-3-1,4-2-3-1,Radu Petrescu,Manchester Utd
+354,2024-11-10,14:00 (15:00),Premier League,Matchweek 11,Sun,Home,W,3,0,Leicester City,0.8,0.6,51.0,"73,829",Bruno Fernandes,4-2-3-1,4-3-3,Peter Bankes,Manchester Utd
+355,2024-11-28,20:00 (21:00),Europa Lg,League phase,Thu,Home,W,3,2,no Bodø/Glimt,2.9,0.8,72.0,"72,985",Bruno Fernandes,3-4-3,4-3-3,Lawrence Visser,Manchester Utd
+356,2024-12-01,13:30 (14:30),Premier League,Matchweek 13,Sun,Home,W,4,0,Everton,1.1,0.6,60.0,"73,817",Bruno Fernandes,3-4-3,4-2-3-1,John Brooks,Manchester Utd
+357,2024-12-07,17:30 (18:30),Premier League,Matchweek 15,Sat,Home,L,2,3,Nott'ham Forest,1.6,0.8,71.0,"73,778",Bruno Fernandes,3-4-3,4-2-3-1,Darren England,Manchester Utd
+358,2024-12-22,14:00 (15:00),Premier League,Matchweek 17,Sun,Home,L,0,3,Bournemouth,2.2,1.6,60.0,"73,720",Bruno Fernandes,3-4-3,4-2-3-1,Craig Pawson,Manchester Utd
+359,2024-12-30,20:00 (21:00),Premier League,Matchweek 19,Mon,Home,L,0,2,Newcastle Utd,0.8,1.9,52.0,"73,809",Lisandro Martínez,3-4-3,4-3-3,Simon Hooper,Manchester Utd
+360,2025-01-16,20:00 (21:00),Premier League,Matchweek 21,Thu,Home,W,3,1,Southampton,3.4,1.4,60.0,"73,722",Bruno Fernandes,3-4-3,3-4-1-2,John Brooks,Manchester Utd
+361,2025-01-19,14:00 (15:00),Premier League,Matchweek 22,Sun,Home,L,1,3,Brighton,1.5,1.9,51.0,"73,758",Bruno Fernandes,3-4-3,4-4-2,Peter Bankes,Manchester Utd
+362,2025-01-23,20:00 (21:00),Europa Lg,League phase,Thu,Home,W,2,1,sct Rangers,2.7,1.2,66.0,"73,288",Bruno Fernandes,3-4-3,4-2-3-1,Erik Lambrechts,Manchester Utd
+363,2025-02-02,14:00 (15:00),Premier League,Matchweek 24,Sun,Home,L,0,2,Crystal Palace,1.1,2.6,66.0,"73,751",Bruno Fernandes,3-4-3,3-4-3,John Brooks,Manchester Utd
+364,2025-02-07,20:00 (21:00),FA Cup,Fourth round proper,Fri,Home,W,2,1,Leicester City,0.0,0.0,56.0,"73,693",Bruno Fernandes,3-4-3,4-2-3-1,Michael Salisbury,Manchester Utd
+365,2025-02-26,19:30,Premier League,Matchweek 27,Wed,Home,W,3,2,Ipswich Town,0.7,1.4,45.0,"73,827",Bruno Fernandes,3-4-3,3-4-3,Darren England,Manchester Utd
+366,2025-03-02,16:30,FA Cup,Fifth round proper,Sun,Home,D,1 (3),1 (4),Fulham,0.0,0.0,41.0,"67,614",Bruno Fernandes,3-4-3,4-2-3-1,Stuart Attwell,Manchester Utd
+367,2025-03-09,16:30,Premier League,Matchweek 28,Sun,Home,D,1,1,Arsenal,1.5,1.6,32.0,"73,812",Bruno Fernandes,3-4-3,4-3-3,Anthony Taylor,Manchester Utd
+368,2025-03-13,20:00,Europa Lg,Round of 16,Thu,Home,W,4,1,es Real Sociedad,4.2,1.0,59.0,"73,189",Bruno Fernandes,3-4-3,4-3-3,Benoît Bastien,Manchester Utd
+369,2025-04-06,16:30,Premier League,Matchweek 31,Sun,Home,D,0,0,Manchester City,0.9,0.5,42.0,"73,738",Bruno Fernandes,3-4-3,4-1-2-1-2,John Brooks,Manchester Utd
+370,2025-04-17,20:00,Europa Lg,Quarter-finals,Thu,Home,W,5,4,fr Lyon,3.4,2.5,41.0,"73,228",Bruno Fernandes,3-4-3,4-3-1-2,Sandro Schärer,Manchester Utd
+371,2025-04-20,14:00,Premier League,Matchweek 33,Sun,Home,L,0,1,Wolves,1.3,0.2,59.0,"73,819",Victor Lindelöf,3-4-3,3-4-3,Robert Jones,Manchester Utd
+372,2025-05-08,20:00,Europa Lg,Semi-finals,Thu,Home,W,4,1,es Athletic Club,2.2,0.8,51.0,"73,298",Bruno Fernandes,3-4-3,4-2-3-1,Daniel Siebert,Manchester Utd
+373,2025-05-11,14:15,Premier League,Matchweek 36,Sun,Home,L,0,2,West Ham,2.1,1.7,52.0,"73,804",Bruno Fernandes,3-4-3,3-4-1-2,Jarred Gillett,Manchester Utd
+374,2025-05-25,16:00,Premier League,Matchweek 38,Sun,Home,W,2,0,Aston Villa,2.9,0.4,67.0,"73,839",Bruno Fernandes,3-4-3,4-2-3-1,Thomas Bramall,Manchester Utd
+375,2024-08-25,14:00,Premier League,Matchweek 2,Sun,Home,L,2,6,Chelsea,1.9,1.6,40.0,"31,235",Mario Lemina,4-2-3-1,4-2-3-1,Darren England,Wolves
+376,2024-08-28,19:30,EFL Cup,Second round,Wed,Home,W,2,0,Burnley,0.0,0.0,50.0,"19,236",Craig Dawson,4-2-3-1,4-4-1-1,Joshua Smith,Wolves
+377,2024-09-15,16:30,Premier League,Matchweek 4,Sun,Home,L,1,2,Newcastle Utd,1.2,1.5,49.0,"30,255",Mario Lemina,4-4-1-1,4-3-3,Chris Kavanagh,Wolves
+378,2024-09-28,17:30,Premier League,Matchweek 6,Sat,Home,L,1,2,Liverpool,0.6,2.5,45.0,"31,413",Mario Lemina,4-1-4-1,4-2-3-1,Anthony Taylor,Wolves
+379,2024-10-20,14:00,Premier League,Matchweek 8,Sun,Home,L,1,2,Manchester City,0.8,1.6,23.0,"31,319",Mario Lemina,3-5-2,4-1-4-1,Chris Kavanagh,Wolves
+380,2024-11-02,17:30 (18:30),Premier League,Matchweek 10,Sat,Home,D,2,2,Crystal Palace,1.5,2.4,57.0,"31,124",Nélson Semedo,3-4-3,3-4-3,Anthony Taylor,Wolves
+381,2024-11-09,15:00 (16:00),Premier League,Matchweek 11,Sat,Home,W,2,0,Southampton,1.3,0.6,29.0,"31,403",Mario Lemina,4-2-3-1,5-4-1,Thomas Bramall,Wolves
+382,2024-11-30,15:00 (16:00),Premier League,Matchweek 13,Sat,Home,L,2,4,Bournemouth,0.5,3.3,60.0,"26,685",Mario Lemina,4-2-3-1,4-2-3-1,Peter Bankes,Wolves
+383,2024-12-14,15:00 (16:00),Premier League,Matchweek 16,Sat,Home,L,1,2,Ipswich Town,1.3,1.1,54.0,"30,866",Nélson Semedo,3-4-3,4-2-3-1,Simon Hooper,Wolves
+384,2024-12-26,17:30 (18:30),Premier League,Matchweek 18,Thu,Home,W,2,0,Manchester Utd,0.9,0.4,51.0,"31,407",Nélson Semedo,3-4-3,3-4-3,Tony Harrington,Wolves
+385,2025-01-06,20:00 (21:00),Premier League,Matchweek 20,Mon,Home,L,0,3,Nott'ham Forest,1.5,2.1,60.0,"29,940",Matt Doherty,3-4-3,4-2-3-1,Peter Bankes,Wolves
+386,2025-01-25,15:00 (16:00),Premier League,Matchweek 23,Sat,Home,L,0,1,Arsenal,0.7,1.0,51.0,"31,503",Nélson Semedo,3-4-3,4-3-3,Michael Oliver,Wolves
+387,2025-02-01,17:30 (18:30),Premier League,Matchweek 24,Sat,Home,W,2,0,Aston Villa,1.6,0.4,32.0,"31,385",Nélson Semedo,3-4-3,4-2-3-1,Andy Madley,Wolves
+388,2025-02-25,19:30,Premier League,Matchweek 27,Tue,Home,L,1,2,Fulham,1.3,1.7,60.0,"28,708",Nélson Semedo,3-4-3,3-4-3,Peter Bankes,Wolves
+389,2025-03-08,20:00,Premier League,Matchweek 28,Sat,Home,D,1,1,Everton,0.8,1.2,66.0,"30,738",Nélson Semedo,3-4-3,4-2-3-1,Stuart Attwell,Wolves
+390,2025-04-01,19:45 (18:45),Premier League,Matchweek 30,Tue,Home,W,1,0,West Ham,1.2,1.3,42.0,"29,587",Nélson Semedo,3-4-3,3-4-3,Tony Harrington,Wolves
+391,2025-04-13,14:00,Premier League,Matchweek 32,Sun,Home,W,4,2,Tottenham,2.4,2.0,37.0,"31,463",Nélson Semedo,3-4-3,4-3-3,Anthony Taylor,Wolves
+392,2025-04-26,15:00,Premier League,Matchweek 34,Sat,Home,W,3,0,Leicester City,2.0,1.1,56.0,"31,518",Nélson Semedo,3-4-3,4-2-3-1,Samuel Barrott,Wolves
+393,2025-05-10,15:00,Premier League,Matchweek 36,Sat,Home,L,0,2,Brighton,0.9,1.6,56.0,"31,279",Nélson Semedo,3-4-3,4-2-3-1,Michael Oliver,Wolves
+394,2025-05-25,16:00,Premier League,Matchweek 38,Sun,Home,D,1,1,Brentford,1.0,1.4,49.0,"31,382",Nélson Semedo,3-4-3,4-2-3-1,Craig Pawson,Wolves
+395,2024-08-24,15:00,Premier League,Matchweek 2,Sat,Home,W,4,0,Everton,2.4,1.0,70.0,"61,357",Son Heung-min,4-3-3,4-2-3-1,Anthony Taylor,Tottenham
+396,2024-09-15,14:00,Premier League,Matchweek 4,Sun,Home,L,0,1,Arsenal,0.7,0.7,63.0,"61,645",Son Heung-min,4-3-3,4-4-2,Jarred Gillett,Tottenham
+397,2024-09-21,15:00,Premier League,Matchweek 5,Sat,Home,W,3,1,Brentford,3.5,0.8,48.0,"61,246",Son Heung-min,4-3-3,5-3-2,John Brooks,Tottenham
+398,2024-09-26,20:00,Europa Lg,League phase,Thu,Home,W,3,0,az Qarabağ,1.4,2.2,49.0,"51,757",Son Heung-min,4-3-3,4-2-3-1,Willy Delajod,Tottenham
+399,2024-10-19,12:30,Premier League,Matchweek 8,Sat,Home,W,4,1,West Ham,1.9,0.8,57.0,"61,381",Son Heung-min,4-3-3,4-1-4-1,Andy Madley,Tottenham
+400,2024-10-24,20:00,Europa Lg,League phase,Thu,Home,W,1,0,nl AZ Alkmaar,1.9,0.4,59.0,"53,438",James Maddison,4-3-3,4-3-3,Manfredas Lukjančukas,Tottenham
+401,2024-10-30,20:15 (21:15),EFL Cup,Fourth round,Wed,Home,W,2,1,Manchester City,0.0,0.0,32.0,"60,797",Cristian Romero,4-3-3,4-1-4-1,Robert Jones,Tottenham
+402,2024-11-03,14:00 (15:00),Premier League,Matchweek 10,Sun,Home,W,4,1,Aston Villa,2.4,1.8,51.0,"61,253",Son Heung-min,4-3-3,4-2-3-1,Craig Pawson,Tottenham
+403,2024-11-10,14:00 (15:00),Premier League,Matchweek 11,Sun,Home,L,1,2,Ipswich Town,1.5,1.6,66.0,"61,505",Son Heung-min,4-3-3,4-2-3-1,Darren England,Tottenham
+404,2024-11-28,20:00 (21:00),Europa Lg,League phase,Thu,Home,D,2,2,it Roma,3.2,2.1,49.0,"53,378",Son Heung-min,4-3-3,3-4-3,Glenn Nyberg,Tottenham
+405,2024-12-01,13:30 (14:30),Premier League,Matchweek 13,Sun,Home,D,1,1,Fulham,0.8,1.5,51.0,"61,141",Son Heung-min,4-3-3,4-2-3-1,Darren Bond,Tottenham
+406,2024-12-08,16:30 (17:30),Premier League,Matchweek 15,Sun,Home,L,3,4,Chelsea,2.8,2.8,39.0,"61,184",Son Heung-min,4-3-3,4-2-3-1,Anthony Taylor,Tottenham
+407,2024-12-19,20:00 (21:00),EFL Cup,Quarter-finals,Thu,Home,W,4,3,Manchester Utd,0.0,0.0,46.0,"57,409",Son Heung-min,4-2-3-1,3-4-3,John Brooks,Tottenham
+408,2024-12-22,16:30 (17:30),Premier League,Matchweek 17,Sun,Home,L,3,6,Liverpool,1.3,5.6,52.0,"61,439",Son Heung-min,4-2-3-1,4-2-3-1,Samuel Barrott,Tottenham
+409,2024-12-29,15:00 (16:00),Premier League,Matchweek 19,Sun,Home,D,2,2,Wolves,2.2,0.7,48.0,"61,284",Son Heung-min,4-2-3-1,3-4-3,Chris Kavanagh,Tottenham
+410,2025-01-04,12:30 (13:30),Premier League,Matchweek 20,Sat,Home,L,1,2,Newcastle Utd,0.9,2.5,56.0,"61,293",Dejan Kulusevski,4-2-3-1,4-3-3,Andy Madley,Tottenham
+411,2025-01-08,20:00 (21:00),EFL Cup,Semi-finals,Wed,Home,W,1,0,Liverpool,0.0,0.0,40.0,0,Son Heung-min,4-3-3,4-2-3-1,Stuart Attwell,Tottenham
+412,2025-01-26,14:00 (15:00),Premier League,Matchweek 23,Sun,Home,L,1,2,Leicester City,1.0,1.6,61.0,"61,295",Son Heung-min,4-3-3,4-2-3-1,Robert Jones,Tottenham
+413,2025-01-30,20:00 (21:00),Europa Lg,League phase,Thu,Home,W,3,0,se Elfsborg,1.5,0.4,80.0,"57,337",Son Heung-min,4-3-3,3-4-3,Sebastian Gishamer,Tottenham
+414,2025-02-16,16:30 (17:30),Premier League,Matchweek 25,Sun,Home,W,1,0,Manchester Utd,2.2,1.5,55.0,"61,383",Son Heung-min,4-3-3,3-4-3,Peter Bankes,Tottenham
+415,2025-02-26,19:30,Premier League,Matchweek 27,Wed,Home,L,0,1,Manchester City,1.3,2.1,55.0,"60,820",James Maddison,4-3-3,4-2-3-1,Jarred Gillett,Tottenham
+416,2025-03-09,14:00,Premier League,Matchweek 28,Sun,Home,D,2,2,Bournemouth,1.5,2.2,61.0,"61,178",Cristian Romero,4-3-3,4-2-3-1,John Brooks,Tottenham
+417,2025-03-13,20:00,Europa Lg,Round of 16,Thu,Home,W,3,1,nl AZ Alkmaar,2.1,1.2,59.0,"58,302",Son Heung-min,4-3-3,4-2-3-1,João Pinheiro,Tottenham
+418,2025-04-06,14:00,Premier League,Matchweek 31,Sun,Home,W,3,1,Southampton,2.1,1.0,51.0,"60,984",Son Heung-min,4-3-3,4-2-3-1,Michael Salisbury,Tottenham
+419,2025-04-10,20:00,Europa Lg,Quarter-finals,Thu,Home,D,1,1,de Eint Frankfurt,0.9,0.3,56.0,"57,849",Son Heung-min,4-3-3,4-2-3-1,Szymon Marciniak,Tottenham
+420,2025-04-21,20:00,Premier League,Matchweek 33,Mon,Home,L,1,2,Nott'ham Forest,2.1,0.5,69.0,"59,314",Cristian Romero,4-3-3,4-2-2-2,Peter Bankes,Tottenham
+421,2025-05-01,20:00,Europa Lg,Semi-finals,Thu,Home,W,3,1,no Bodø/Glimt,3.0,0.3,42.0,"61,327",Cristian Romero,4-3-3,4-3-3,Jose Maria Sánchez,Tottenham
+422,2025-05-11,14:15,Premier League,Matchweek 36,Sun,Home,L,0,2,Crystal Palace,0.7,3.3,48.0,"60,254",Rodrigo Bentancur,4-3-3,3-4-3,Chris Kavanagh,Tottenham
+423,2025-05-25,16:00,Premier League,Matchweek 38,Sun,Home,L,1,4,Brighton,2.0,2.2,34.0,"61,449",Guglielmo Vicario,4-3-3,4-4-2,Robert Jones,Tottenham
+424,2024-08-19,20:00,Premier League,Matchweek 1,Mon,Home,D,1,1,Tottenham,1.0,1.2,30.0,"31,977",Jamie Vardy,4-2-3-1,4-3-3,Chris Kavanagh,Leicester City
+425,2024-08-27,19:45,EFL Cup,Second round,Tue,Home,W,4,0,Tranmere Rovers,0.0,0.0,71.0,"13,011",Ricardo Pereira,4-3-3,4-4-2,unknown,Leicester City
+426,2024-08-31,15:00,Premier League,Matchweek 3,Sat,Home,L,1,2,Aston Villa,0.4,1.4,57.0,"31,725",Jamie Vardy,4-2-3-1,4-4-2,David Coote,Leicester City
+427,2024-09-21,15:00,Premier League,Matchweek 5,Sat,Home,D,1,1,Everton,0.7,1.1,58.0,"31,765",Jamie Vardy,4-2-3-1,4-2-3-1,Darren England,Leicester City
+428,2024-10-05,15:00,Premier League,Matchweek 7,Sat,Home,W,1,0,Bournemouth,0.8,2.1,45.0,"31,706",Jamie Vardy,4-2-3-1,4-2-3-1,Darren Bond,Leicester City
+429,2024-10-25,20:00,Premier League,Matchweek 9,Fri,Home,L,1,3,Nott'ham Forest,0.8,1.7,65.0,"31,879",Jamie Vardy,4-2-3-1,4-2-3-1,Craig Pawson,Leicester City
+430,2024-11-23,12:30 (13:30),Premier League,Matchweek 12,Sat,Home,L,1,2,Chelsea,1.1,2.7,37.0,"31,880",Jamie Vardy,4-4-1-1,4-2-3-1,Andy Madley,Leicester City
+431,2024-12-03,20:15 (21:15),Premier League,Matchweek 14,Tue,Home,W,3,1,West Ham,1.7,3.0,39.0,"30,947",Jamie Vardy,4-2-3-1,4-2-3-1,Joshua Smith,Leicester City
+432,2024-12-08,14:00 (15:00),Premier League,Matchweek 15,Sun,Home,D,2,2,Brighton,1.3,1.5,56.0,"31,647",Jamie Vardy,4-2-3-1,4-2-3-1,Stuart Attwell,Leicester City
+433,2024-12-22,14:00 (15:00),Premier League,Matchweek 17,Sun,Home,L,0,3,Wolves,0.8,1.1,54.0,"31,818",Jamie Vardy,4-2-3-1,3-4-3,Anthony Taylor,Leicester City
+434,2024-12-29,14:30 (15:30),Premier League,Matchweek 19,Sun,Home,L,0,2,Manchester City,1.3,1.3,53.0,"32,057",Jamie Vardy,4-2-3-1,4-1-4-1,Michael Oliver,Leicester City
+435,2025-01-11,14:00 (15:00),FA Cup,Third round proper,Sat,Home,W,6,2,QPR,0.0,0.0,0.0,"28,242",Jamie Vardy,4-2-3-1,4-2-3-1,David Webb,Leicester City
+436,2025-01-15,19:30 (20:30),Premier League,Matchweek 21,Wed,Home,L,0,2,Crystal Palace,1.7,1.8,57.0,"29,766",Jamie Vardy,4-2-3-1,3-4-3,Andy Madley,Leicester City
+437,2025-01-18,15:00 (16:00),Premier League,Matchweek 22,Sat,Home,L,0,2,Fulham,0.6,2.0,40.0,"31,500",Jamie Vardy,4-2-3-1,4-2-3-1,Michael Salisbury,Leicester City
+438,2025-02-15,12:30 (13:30),Premier League,Matchweek 25,Sat,Home,L,0,2,Arsenal,0.2,1.4,40.0,"31,968",Jamie Vardy,4-2-3-1,4-3-3,Samuel Barrott,Leicester City
+439,2025-02-21,20:00 (21:00),Premier League,Matchweek 26,Fri,Home,L,0,4,Brentford,0.5,1.5,48.0,"31,077",Jamie Vardy,4-2-3-1,4-2-3-1,Tony Harrington,Leicester City
+440,2025-03-16,19:00,Premier League,Matchweek 29,Sun,Home,L,0,3,Manchester Utd,1.0,0.9,53.0,"31,773",Jamie Vardy,3-4-3,3-4-3,Thomas Bramall,Leicester City
+441,2025-04-07,20:00,Premier League,Matchweek 31,Mon,Home,L,0,3,Newcastle Utd,0.5,3.2,58.0,"30,403",Jamie Vardy,3-4-3,4-3-3,Robert Jones,Leicester City
+442,2025-04-20,16:30,Premier League,Matchweek 33,Sun,Home,L,0,1,Liverpool,0.3,2.5,42.0,"30,402",Jamie Vardy,4-2-3-1,4-2-3-1,Stuart Attwell,Leicester City
+443,2025-05-03,15:00,Premier League,Matchweek 35,Sat,Home,W,2,0,Southampton,1.4,0.5,49.0,"31,240",Jamie Vardy,4-2-3-1,3-4-3,David Webb,Leicester City
+444,2025-05-18,15:00,Premier League,Matchweek 37,Sun,Home,W,2,0,Ipswich Town,0.8,1.4,50.0,"31,986",Jamie Vardy,4-2-3-1,4-2-3-1,Andrew Kitchen,Leicester City
+445,2024-08-17,12:30,Premier League,Matchweek 1,Sat,Home,L,0,2,Liverpool,0.5,2.6,38.0,"30,014",Sam Morsy,4-2-3-1,4-2-3-1,Tim Robinson,Ipswich Town
+446,2024-08-31,15:00,Premier League,Matchweek 3,Sat,Home,D,1,1,Fulham,0.4,0.9,48.0,"29,517",Sam Morsy,4-2-3-1,4-3-3,Lewis Smith,Ipswich Town
+447,2024-09-29,14:00,Premier League,Matchweek 6,Sun,Home,D,2,2,Aston Villa,1.2,0.8,44.0,"29,943",Sam Morsy,4-2-3-1,4-2-3-1,Stuart Attwell,Ipswich Town
+448,2024-10-19,15:00,Premier League,Matchweek 8,Sat,Home,L,0,2,Everton,1.3,1.7,55.0,"29,862",Sam Morsy,4-2-3-1,4-2-3-1,Michael Oliver,Ipswich Town
+449,2024-11-02,15:00 (16:00),Premier League,Matchweek 10,Sat,Home,D,1,1,Leicester City,1.0,1.5,43.0,"29,874",Sam Morsy,4-2-3-1,4-2-3-1,Tim Robinson,Ipswich Town
+450,2024-11-24,16:30 (17:30),Premier League,Matchweek 12,Sun,Home,D,1,1,Manchester Utd,1.6,0.8,40.0,"30,017",Sam Morsy,4-2-3-1,3-4-3,Anthony Taylor,Ipswich Town
+451,2024-12-03,19:30 (20:30),Premier League,Matchweek 14,Tue,Home,L,0,1,Crystal Palace,0.5,1.6,54.0,"29,533",Sam Morsy,4-2-3-1,3-4-3,Craig Pawson,Ipswich Town
+452,2024-12-08,14:00 (15:00),Premier League,Matchweek 15,Sun,Home,L,1,2,Bournemouth,1.3,3.2,44.0,"29,180",Sam Morsy,4-2-3-1,4-2-3-1,Michael Salisbury,Ipswich Town
+453,2024-12-21,15:00 (16:00),Premier League,Matchweek 17,Sat,Home,L,0,4,Newcastle Utd,0.7,2.3,42.0,"29,774",Sam Morsy,4-2-3-1,4-3-3,Stuart Attwell,Ipswich Town
+454,2024-12-30,19:45 (20:45),Premier League,Matchweek 19,Mon,Home,W,2,0,Chelsea,1.6,2.0,24.0,"29,968",Sam Morsy,5-4-1,4-2-3-1,John Brooks,Ipswich Town
+455,2025-01-12,15:00 (16:00),FA Cup,Third round proper,Sun,Home,W,3,0,Bristol Rovers,0.0,0.0,0.0,"27,678",Luke Woolfenden,4-2-3-1,4-2-3-1,Oliver Langford,Ipswich Town
+456,2025-01-16,19:30 (20:30),Premier League,Matchweek 21,Thu,Home,L,0,2,Brighton,0.3,1.0,47.0,"29,403",Dara O'Shea,4-2-3-1,4-1-4-1,Tony Harrington,Ipswich Town
+457,2025-01-19,16:30 (17:30),Premier League,Matchweek 22,Sun,Home,L,0,6,Manchester City,0.5,3.0,33.0,"29,841",Sam Morsy,5-4-1,4-2-3-1,Samuel Barrott,Ipswich Town
+458,2025-02-01,15:00 (16:00),Premier League,Matchweek 24,Sat,Home,L,1,2,Southampton,1.8,0.9,57.0,"29,902",Sam Morsy,4-2-3-1,3-4-3,Michael Oliver,Ipswich Town
+459,2025-02-22,15:00 (16:00),Premier League,Matchweek 26,Sat,Home,L,1,4,Tottenham,1.1,1.7,42.0,"30,003",Dara O'Shea,4-2-3-1,4-3-3,Tim Robinson,Ipswich Town
+460,2025-03-15,15:00,Premier League,Matchweek 29,Sat,Home,L,2,4,Nott'ham Forest,0.4,1.5,55.0,"29,878",Dara O'Shea,4-2-3-1,4-2-3-1,Michael Salisbury,Ipswich Town
+461,2025-04-05,15:00 (14:00),Premier League,Matchweek 31,Sat,Home,L,1,2,Wolves,0.8,2.6,45.0,"29,549",Sam Morsy,4-2-3-1,3-4-3,Peter Bankes,Ipswich Town
+462,2025-04-20,14:00,Premier League,Matchweek 33,Sun,Home,L,0,4,Arsenal,0.2,2.4,25.0,"29,549",Sam Morsy,4-4-1-1,4-3-3,Chris Kavanagh,Ipswich Town
+463,2025-05-10,15:00,Premier League,Matchweek 36,Sat,Home,L,0,1,Brentford,0.9,1.4,49.0,"29,511",Sam Morsy,4-2-3-1,4-2-3-1,Samuel Barrott,Ipswich Town
+464,2025-05-25,16:00,Premier League,Matchweek 38,Sun,Home,L,1,3,West Ham,0.7,1.1,42.0,"29,771",Sam Morsy,4-2-3-1,3-1-4-2,Tim Robinson,Ipswich Town
+465,2024-08-24,15:00,Premier League,Matchweek 2,Sat,Home,L,0,1,Nott'ham Forest,0.1,2.2,64.0,"31,150",Jack Stephens,3-5-2,4-2-3-1,Samuel Barrott,Southampton
+466,2024-09-14,12:30,Premier League,Matchweek 4,Sat,Home,L,0,3,Manchester Utd,1.1,2.6,44.0,"31,144",Jack Stephens,4-2-3-1,4-2-3-1,Stuart Attwell,Southampton
+467,2024-09-21,15:00,Premier League,Matchweek 5,Sat,Home,D,1,1,Ipswich Town,2.4,1.6,53.0,"31,117",Flynn Downes,4-2-3-1,4-2-3-1,Samuel Allison,Southampton
+468,2024-10-19,15:00,Premier League,Matchweek 8,Sat,Home,L,2,3,Leicester City,2.1,3.1,42.0,"31,145",Flynn Downes,4-5-1,4-2-3-1,Anthony Taylor,Southampton
+469,2024-10-29,19:45 (20:45),EFL Cup,Fourth round,Tue,Home,W,3,2,Stoke City,0.0,0.0,78.0,"16,092",Adam Armstrong,4-3-3,5-4-1,Lewis Smith,Southampton
+470,2024-11-02,15:00 (16:00),Premier League,Matchweek 10,Sat,Home,W,1,0,Everton,0.7,1.6,65.0,"31,143",Jack Stephens,5-4-1,4-2-3-1,Andy Madley,Southampton
+471,2024-11-24,14:00 (15:00),Premier League,Matchweek 12,Sun,Home,L,2,3,Liverpool,1.3,3.1,38.0,"31,278",Jack Stephens,5-4-1,4-2-3-1,Samuel Barrott,Southampton
+472,2024-12-04,19:30 (20:30),Premier League,Matchweek 14,Wed,Home,L,1,5,Chelsea,1.6,5.2,45.0,"31,193",Jack Stephens,5-3-2,4-2-3-1,Tony Harrington,Southampton
+473,2024-12-15,19:00 (20:00),Premier League,Matchweek 16,Sun,Home,L,0,5,Tottenham,0.8,2.3,42.0,"31,090",Adam Armstrong,4-3-1-2,4-2-3-1,Darren England,Southampton
+474,2024-12-18,20:00 (21:00),EFL Cup,Quarter-finals,Wed,Home,L,1,2,Liverpool,0.0,0.0,31.0,"26,503",Alex McCarthy,5-4-1,4-3-3,Simon Hooper,Southampton
+475,2024-12-26,15:00 (16:00),Premier League,Matchweek 18,Thu,Home,L,0,1,West Ham,1.4,1.7,54.0,"31,059",Jan Bednarek,3-4-1-2,4-1-4-1,Lewis Smith,Southampton
+476,2025-01-04,15:00 (16:00),Premier League,Matchweek 20,Sat,Home,L,0,5,Brentford,0.3,4.4,50.0,"31,001",Jan Bednarek,3-4-3,4-3-3,Stuart Attwell,Southampton
+477,2025-01-12,16:30 (17:30),FA Cup,Third round proper,Sun,Home,W,3,0,Swansea City,0.0,0.0,0.0,"12,120",Jan Bednarek,3-4-1-2,4-2-3-1,Tony Harrington,Southampton
+478,2025-01-25,15:00 (16:00),Premier League,Matchweek 23,Sat,Home,L,1,3,Newcastle Utd,0.8,2.9,53.0,"31,141",Jan Bednarek,3-4-1-2,4-3-3,Samuel Barrott,Southampton
+479,2025-02-08,15:00 (16:00),FA Cup,Fourth round proper,Sat,Home,L,0,1,Burnley,0.0,0.0,58.0,"15,253",Jan Bednarek,3-4-1-2,5-4-1,Will Finnie,Southampton
+480,2025-02-15,15:00 (16:00),Premier League,Matchweek 25,Sat,Home,L,1,3,Bournemouth,0.8,1.2,44.0,"31,037",Jan Bednarek,3-4-1-2,4-2-3-1,Jarred Gillett,Southampton
+481,2025-02-22,15:00 (16:00),Premier League,Matchweek 26,Sat,Home,L,0,4,Brighton,0.1,3.9,50.0,"30,775",Jan Bednarek,3-4-3,4-2-3-1,Darren Bond,Southampton
+482,2025-03-15,15:00,Premier League,Matchweek 29,Sat,Home,L,1,2,Wolves,1.3,0.4,60.0,"30,950",Aaron Ramsdale,3-4-3,3-4-3,Robert Jones,Southampton
+483,2025-04-02,19:45 (18:45),Premier League,Matchweek 30,Wed,Home,D,1,1,Crystal Palace,0.7,0.7,43.0,"30,158",Jack Stephens,3-4-3,3-4-3,Andy Madley,Southampton
+484,2025-04-12,15:00,Premier League,Matchweek 32,Sat,Home,L,0,3,Aston Villa,0.3,3.0,40.0,"30,199",Jack Stephens,3-4-3,4-2-3-1,Thomas Bramall,Southampton
+485,2025-04-26,15:00,Premier League,Matchweek 34,Sat,Home,L,1,2,Fulham,0.6,2.4,35.0,"28,946",Jack Stephens,3-4-3,4-3-3,Tony Harrington,Southampton
+486,2025-05-10,15:00,Premier League,Matchweek 36,Sat,Home,D,0,0,Manchester City,0.1,1.7,28.0,"30,937",Jack Stephens,3-4-3,4-2-3-1,Tim Robinson,Southampton
+487,2025-05-25,16:00,Premier League,Matchweek 38,Sun,Home,L,1,2,Arsenal,0.6,2.3,38.0,"31,289",Aaron Ramsdale,5-4-1,4-2-3-1,Darren Bond,Southampton
